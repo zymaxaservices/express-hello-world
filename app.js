@@ -1,43 +1,33 @@
-const express = require('express')
-const path = require("path");
-const app = express()
+const express = require('express');
+const states = require('./states.json');
+const districtsData = require('./districts.json');
 
-// #############################################################################
-// Logs all request paths and method
-app.use(function (req, res, next) {
-  res.set('x-timestamp', Date.now())
-  res.set('x-powered-by', 'cyclic.sh')
-  console.log(`[${new Date().toISOString()}] ${req.ip} ${req.method} ${req.path}`);
-  next();
+const app = express();
+const PORT = 3000;
+
+app.get('/states', (req, res) => {
+    let options = '';
+    states.States.forEach(state => {
+        options += `<option value="${state.state_code}">${state.state}</option>`;
+    });
+    res.send(options);
 });
 
-// #############################################################################
-// This configures static hosting for files in /public that have the extensions
-// listed in the array.
-var options = {
-  dotfiles: 'ignore',
-  etag: false,
-  extensions: ['htm', 'html','css','js','ico','jpg','jpeg','png','svg'],
-  index: ['index.html'],
-  maxAge: '1m',
-  redirect: false
-}
-app.use(express.static('public', options))
+app.get('/districts/:stateCode', (req, res) => {
+    const stateCode = parseInt(req.params.stateCode); // Convert state code to integer
+    
+    const filteredDistricts = districtsData.Districts.filter(district => parseInt(district.state_code) === stateCode);
+    
+    if (filteredDistricts.length === 0) {
+        return res.status(404).send('Districts not found for the given state code.');
+    }
 
-// #############################################################################
-// Catch all handler for all other request.
-app.use('*', (req,res) => {
-  res.json({
-      at: new Date().toISOString(),
-      method: req.method,
-      hostname: req.hostname,
-      ip: req.ip,
-      query: req.query,
-      headers: req.headers,
-      cookies: req.cookies,
-      params: req.params
-    })
-    .end()
-})
-
-module.exports = app
+    let options = '';
+    filteredDistricts.forEach(district => {
+        options += `<option value="${district.district}">${district.district}</option>`;
+    });
+    res.send(options);
+});
+app.listen(PORT, () => {
+    console.log(`Server is running on http://localhost:${PORT}`);
+});
