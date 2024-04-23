@@ -1,0 +1,148 @@
+{
+  "States": [
+    {
+      "state_code": 35,
+      "state": "Andaman And Nicobar Islands"
+    },
+    {
+      "state_code": 28,
+      "state": "Andhra Pradesh"
+    },
+    {
+      "state_code": 12,
+      "state": "Arunachal Pradesh"
+    },
+    {
+      "state_code": 18,
+      "state": "Assam"
+    },
+    {
+      "state_code": 10,
+      "state": "Bihar"
+    },
+    {
+      "state_code": 4,
+      "state": "Chandigarh"
+    },
+    {
+      "state_code": 22,
+      "state": "Chhattisgarh"
+    },
+    {
+      "state_code": 7,
+      "state": "Delhi"
+    },
+    {
+      "state_code": 30,
+      "state": "Goa"
+    },
+    {
+      "state_code": 24,
+      "state": "Gujarat"
+    },
+    {
+      "state_code": 6,
+      "state": "Haryana"
+    },
+    {
+      "state_code": 2,
+      "state": "Himachal Pradesh"
+    },
+    {
+      "state_code": 1,
+      "state": "Jammu And Kashmir"
+    },
+    {
+      "state_code": 20,
+      "state": "Jharkhand"
+    },
+    {
+      "state_code": 29,
+      "state": "Karnataka"
+    },
+    {
+      "state_code": 32,
+      "state": "Kerala"
+    },
+    {
+      "state_code": 37,
+      "state": "Ladakh"
+    },
+    {
+      "state_code": 31,
+      "state": "Lakshadweep"
+    },
+    {
+      "state_code": 23,
+      "state": "Madhya Pradesh"
+    },
+    {
+      "state_code": 27,
+      "state": "Maharashtra"
+    },
+    {
+      "state_code": 14,
+      "state": "Manipur"
+    },
+    {
+      "state_code": 17,
+      "state": "Meghalaya"
+    },
+    {
+      "state_code": 15,
+      "state": "Mizoram"
+    },
+    {
+      "state_code": 13,
+      "state": "Nagaland"
+    },
+    {
+      "state_code": 21,
+      "state": "Odisha"
+    },
+    {
+      "state_code": 34,
+      "state": "Puducherry"
+    },
+    {
+      "state_code": 3,
+      "state": "Punjab"
+    },
+    {
+      "state_code": 8,
+      "state": "Rajasthan"
+    },
+    {
+      "state_code": 11,
+      "state": "Sikkim"
+    },
+    {
+      "state_code": 33,
+      "state": "Tamil Nadu"
+    },
+    {
+      "state_code": 36,
+      "state": "Telangana"
+    },
+    {
+      "state_code": 38,
+      "state": "The Dadra And Nagar Haveli And Daman And Diu"
+    },
+    {
+      "state_code": 16,
+      "state": "Tripura"
+    },
+    {
+      "state_code": 5,
+      "state": "Uttarakhand"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh"
+    },
+    {
+      "state_code": 19,
+      "state": "West Bengal"
+    }
+  ]
+}

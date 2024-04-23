@@ -1,0 +1,4714 @@
+{
+  "Districts": [
+    {
+      "state_code": 35,
+      "state": "Andaman And Nicobar Islands",
+      "district_code": 603,
+      "district": "Nicobars"
+    },
+    {
+      "state_code": 35,
+      "state": "Andaman And Nicobar Islands",
+      "district_code": 632,
+      "district": "North And Middle Andaman"
+    },
+    {
+      "state_code": 35,
+      "state": "Andaman And Nicobar Islands",
+      "district_code": 602,
+      "district": "South Andamans"
+    },
+    {
+      "state_code": 28,
+      "state": "Andhra Pradesh",
+      "district_code": 745,
+      "district": "Alluri Sitharama Raju"
+    },
+    {
+      "state_code": 28,
+      "state": "Andhra Pradesh",
+      "district_code": 744,
+      "district": "Anakapalli"
+    },
+    {
+      "state_code": 28,
+      "state": "Andhra Pradesh",
+      "district_code": 502,
+      "district": "Ananthapuramu"
+    },
+    {
+      "state_code": 28,
+      "state": "Andhra Pradesh",
+      "district_code": 753,
+      "district": "Annamayya"
+    },
+    {
+      "state_code": 28,
+      "state": "Andhra Pradesh",
+      "district_code": 750,
+      "district": "Bapatla"
+    },
+    {
+      "state_code": 28,
+      "state": "Andhra Pradesh",
+      "district_code": 503,
+      "district": "Chittoor"
+    },
+    {
+      "state_code": 28,
+      "state": "Andhra Pradesh",
+      "district_code": 747,
+      "district": "Dr. B.R. Ambedkar Konaseema"
+    },
+    {
+      "state_code": 28,
+      "state": "Andhra Pradesh",
+      "district_code": 505,
+      "district": "East Godavari"
+    },
+    {
+      "state_code": 28,
+      "state": "Andhra Pradesh",
+      "district_code": 748,
+      "district": "Eluru"
+    },
+    {
+      "state_code": 28,
+      "state": "Andhra Pradesh",
+      "district_code": 506,
+      "district": "Guntur"
+    },
+    {
+      "state_code": 28,
+      "state": "Andhra Pradesh",
+      "district_code": 746,
+      "district": "Kakinada"
+    },
+    {
+      "state_code": 28,
+      "state": "Andhra Pradesh",
+      "district_code": 510,
+      "district": "Krishna"
+    },
+    {
+      "state_code": 28,
+      "state": "Andhra Pradesh",
+      "district_code": 511,
+      "district": "Kurnool"
+    },
+    {
+      "state_code": 28,
+      "state": "Andhra Pradesh",
+      "district_code": 755,
+      "district": "Nandyal"
+    },
+    {
+      "state_code": 28,
+      "state": "Andhra Pradesh",
+      "district_code": 749,
+      "district": "Ntr"
+    },
+    {
+      "state_code": 28,
+      "state": "Andhra Pradesh",
+      "district_code": 751,
+      "district": "Palnadu"
+    },
+    {
+      "state_code": 28,
+      "state": "Andhra Pradesh",
+      "district_code": 743,
+      "district": "Parvathipuram Manyam"
+    },
+    {
+      "state_code": 28,
+      "state": "Andhra Pradesh",
+      "district_code": 517,
+      "district": "Prakasam"
+    },
+    {
+      "state_code": 28,
+      "state": "Andhra Pradesh",
+      "district_code": 519,
+      "district": "Srikakulam"
+    },
+    {
+      "state_code": 28,
+      "state": "Andhra Pradesh",
+      "district_code": 515,
+      "district": "Sri Potti Sriramulu Nellore"
+    },
+    {
+      "state_code": 28,
+      "state": "Andhra Pradesh",
+      "district_code": 754,
+      "district": "Sri Sathya Sai"
+    },
+    {
+      "state_code": 28,
+      "state": "Andhra Pradesh",
+      "district_code": 752,
+      "district": "Tirupati"
+    },
+    {
+      "state_code": 28,
+      "state": "Andhra Pradesh",
+      "district_code": 520,
+      "district": "Visakhapatnam"
+    },
+    {
+      "state_code": 28,
+      "state": "Andhra Pradesh",
+      "district_code": 521,
+      "district": "Vizianagaram"
+    },
+    {
+      "state_code": 28,
+      "state": "Andhra Pradesh",
+      "district_code": 523,
+      "district": "West Godavari"
+    },
+    {
+      "state_code": 28,
+      "state": "Andhra Pradesh",
+      "district_code": 504,
+      "district": "Y.S.R."
+    },
+    {
+      "state_code": 12,
+      "state": "Arunachal Pradesh",
+      "district_code": 628,
+      "district": "Anjaw"
+    },
+    {
+      "state_code": 12,
+      "state": "Arunachal Pradesh",
+      "district_code": 229,
+      "district": "Changlang"
+    },
+    {
+      "state_code": 12,
+      "state": "Arunachal Pradesh",
+      "district_code": 230,
+      "district": "Dibang Valley"
+    },
+    {
+      "state_code": 12,
+      "state": "Arunachal Pradesh",
+      "district_code": 231,
+      "district": "East Kameng"
+    },
+    {
+      "state_code": 12,
+      "state": "Arunachal Pradesh",
+      "district_code": 232,
+      "district": "East Siang"
+    },
+    {
+      "state_code": 12,
+      "state": "Arunachal Pradesh",
+      "district_code": 718,
+      "district": "Kamle"
+    },
+    {
+      "state_code": 12,
+      "state": "Arunachal Pradesh",
+      "district_code": 677,
+      "district": "Kra Daadi"
+    },
+    {
+      "state_code": 12,
+      "state": "Arunachal Pradesh",
+      "district_code": 233,
+      "district": "Kurung Kumey"
+    },
+    {
+      "state_code": 12,
+      "state": "Arunachal Pradesh",
+      "district_code": 724,
+      "district": "Leparada"
+    },
+    {
+      "state_code": 12,
+      "state": "Arunachal Pradesh",
+      "district_code": 234,
+      "district": "Lohit"
+    },
+    {
+      "state_code": 12,
+      "state": "Arunachal Pradesh",
+      "district_code": 666,
+      "district": "Longding"
+    },
+    {
+      "state_code": 12,
+      "state": "Arunachal Pradesh",
+      "district_code": 235,
+      "district": "Lower Dibang Valley"
+    },
+    {
+      "state_code": 12,
+      "state": "Arunachal Pradesh",
+      "district_code": 719,
+      "district": "Lower Siang"
+    },
+    {
+      "state_code": 12,
+      "state": "Arunachal Pradesh",
+      "district_code": 236,
+      "district": "Lower Subansiri"
+    },
+    {
+      "state_code": 12,
+      "state": "Arunachal Pradesh",
+      "district_code": 678,
+      "district": "Namsai"
+    },
+    {
+      "state_code": 12,
+      "state": "Arunachal Pradesh",
+      "district_code": 723,
+      "district": "Pakke Kessang"
+    },
+    {
+      "state_code": 12,
+      "state": "Arunachal Pradesh",
+      "district_code": 237,
+      "district": "Papum Pare"
+    },
+    {
+      "state_code": 12,
+      "state": "Arunachal Pradesh",
+      "district_code": 725,
+      "district": "Shi Yomi"
+    },
+    {
+      "state_code": 12,
+      "state": "Arunachal Pradesh",
+      "district_code": 679,
+      "district": "Siang"
+    },
+    {
+      "state_code": 12,
+      "state": "Arunachal Pradesh",
+      "district_code": 238,
+      "district": "Tawang"
+    },
+    {
+      "state_code": 12,
+      "state": "Arunachal Pradesh",
+      "district_code": 239,
+      "district": "Tirap"
+    },
+    {
+      "state_code": 12,
+      "state": "Arunachal Pradesh",
+      "district_code": 240,
+      "district": "Upper Siang"
+    },
+    {
+      "state_code": 12,
+      "state": "Arunachal Pradesh",
+      "district_code": 241,
+      "district": "Upper Subansiri"
+    },
+    {
+      "state_code": 12,
+      "state": "Arunachal Pradesh",
+      "district_code": 242,
+      "district": "West Kameng"
+    },
+    {
+      "state_code": 12,
+      "state": "Arunachal Pradesh",
+      "district_code": 243,
+      "district": "West Siang"
+    },
+    {
+      "state_code": 18,
+      "state": "Assam",
+      "district_code": 739,
+      "district": "Bajali"
+    },
+    {
+      "state_code": 18,
+      "state": "Assam",
+      "district_code": 616,
+      "district": "Baksa"
+    },
+    {
+      "state_code": 18,
+      "state": "Assam",
+      "district_code": 280,
+      "district": "Barpeta"
+    },
+    {
+      "state_code": 18,
+      "state": "Assam",
+      "district_code": 705,
+      "district": "Biswanath"
+    },
+    {
+      "state_code": 18,
+      "state": "Assam",
+      "district_code": 281,
+      "district": "Bongaigaon"
+    },
+    {
+      "state_code": 18,
+      "state": "Assam",
+      "district_code": 282,
+      "district": "Cachar"
+    },
+    {
+      "state_code": 18,
+      "state": "Assam",
+      "district_code": 708,
+      "district": "Charaideo"
+    },
+    {
+      "state_code": 18,
+      "state": "Assam",
+      "district_code": 612,
+      "district": "Chirang"
+    },
+    {
+      "state_code": 18,
+      "state": "Assam",
+      "district_code": 283,
+      "district": "Darrang"
+    },
+    {
+      "state_code": 18,
+      "state": "Assam",
+      "district_code": 284,
+      "district": "Dhemaji"
+    },
+    {
+      "state_code": 18,
+      "state": "Assam",
+      "district_code": 285,
+      "district": "Dhubri"
+    },
+    {
+      "state_code": 18,
+      "state": "Assam",
+      "district_code": 286,
+      "district": "Dibrugarh"
+    },
+    {
+      "state_code": 18,
+      "state": "Assam",
+      "district_code": 299,
+      "district": "Dima Hasao"
+    },
+    {
+      "state_code": 18,
+      "state": "Assam",
+      "district_code": 287,
+      "district": "Goalpara"
+    },
+    {
+      "state_code": 18,
+      "state": "Assam",
+      "district_code": 288,
+      "district": "Golaghat"
+    },
+    {
+      "state_code": 18,
+      "state": "Assam",
+      "district_code": 289,
+      "district": "Hailakandi"
+    },
+    {
+      "state_code": 18,
+      "state": "Assam",
+      "district_code": 709,
+      "district": "Hojai"
+    },
+    {
+      "state_code": 18,
+      "state": "Assam",
+      "district_code": 290,
+      "district": "Jorhat"
+    },
+    {
+      "state_code": 18,
+      "state": "Assam",
+      "district_code": 291,
+      "district": "Kamrup"
+    },
+    {
+      "state_code": 18,
+      "state": "Assam",
+      "district_code": 618,
+      "district": "Kamrup Metro"
+    },
+    {
+      "state_code": 18,
+      "state": "Assam",
+      "district_code": 292,
+      "district": "Karbi Anglong"
+    },
+    {
+      "state_code": 18,
+      "state": "Assam",
+      "district_code": 293,
+      "district": "Karimganj"
+    },
+    {
+      "state_code": 18,
+      "state": "Assam",
+      "district_code": 294,
+      "district": "Kokrajhar"
+    },
+    {
+      "state_code": 18,
+      "state": "Assam",
+      "district_code": 295,
+      "district": "Lakhimpur"
+    },
+    {
+      "state_code": 18,
+      "state": "Assam",
+      "district_code": 706,
+      "district": "Majuli"
+    },
+    {
+      "state_code": 18,
+      "state": "Assam",
+      "district_code": 296,
+      "district": "Marigaon"
+    },
+    {
+      "state_code": 18,
+      "state": "Assam",
+      "district_code": 297,
+      "district": "Nagaon"
+    },
+    {
+      "state_code": 18,
+      "state": "Assam",
+      "district_code": 298,
+      "district": "Nalbari"
+    },
+    {
+      "state_code": 18,
+      "state": "Assam",
+      "district_code": 300,
+      "district": "Sivasagar"
+    },
+    {
+      "state_code": 18,
+      "state": "Assam",
+      "district_code": 301,
+      "district": "Sonitpur"
+    },
+    {
+      "state_code": 18,
+      "state": "Assam",
+      "district_code": 707,
+      "district": "South Salmara Mancachar"
+    },
+    {
+      "state_code": 18,
+      "state": "Assam",
+      "district_code": 756,
+      "district": "Tamulpur"
+    },
+    {
+      "state_code": 18,
+      "state": "Assam",
+      "district_code": 302,
+      "district": "Tinsukia"
+    },
+    {
+      "state_code": 18,
+      "state": "Assam",
+      "district_code": 617,
+      "district": "Udalguri"
+    },
+    {
+      "state_code": 18,
+      "state": "Assam",
+      "district_code": 710,
+      "district": "West Karbi Anglong"
+    },
+    {
+      "state_code": 10,
+      "state": "Bihar",
+      "district_code": 188,
+      "district": "Araria"
+    },
+    {
+      "state_code": 10,
+      "state": "Bihar",
+      "district_code": 611,
+      "district": "Arwal"
+    },
+    {
+      "state_code": 10,
+      "state": "Bihar",
+      "district_code": 189,
+      "district": "Aurangabad"
+    },
+    {
+      "state_code": 10,
+      "state": "Bihar",
+      "district_code": 190,
+      "district": "Banka"
+    },
+    {
+      "state_code": 10,
+      "state": "Bihar",
+      "district_code": 191,
+      "district": "Begusarai"
+    },
+    {
+      "state_code": 10,
+      "state": "Bihar",
+      "district_code": 192,
+      "district": "Bhagalpur"
+    },
+    {
+      "state_code": 10,
+      "state": "Bihar",
+      "district_code": 193,
+      "district": "Bhojpur"
+    },
+    {
+      "state_code": 10,
+      "state": "Bihar",
+      "district_code": 194,
+      "district": "Buxar"
+    },
+    {
+      "state_code": 10,
+      "state": "Bihar",
+      "district_code": 195,
+      "district": "Darbhanga"
+    },
+    {
+      "state_code": 10,
+      "state": "Bihar",
+      "district_code": 196,
+      "district": "Gaya"
+    },
+    {
+      "state_code": 10,
+      "state": "Bihar",
+      "district_code": 197,
+      "district": "Gopalganj"
+    },
+    {
+      "state_code": 10,
+      "state": "Bihar",
+      "district_code": 198,
+      "district": "Jamui"
+    },
+    {
+      "state_code": 10,
+      "state": "Bihar",
+      "district_code": 199,
+      "district": "Jehanabad"
+    },
+    {
+      "state_code": 10,
+      "state": "Bihar",
+      "district_code": 200,
+      "district": "Kaimur (Bhabua)"
+    },
+    {
+      "state_code": 10,
+      "state": "Bihar",
+      "district_code": 201,
+      "district": "Katihar"
+    },
+    {
+      "state_code": 10,
+      "state": "Bihar",
+      "district_code": 202,
+      "district": "Khagaria"
+    },
+    {
+      "state_code": 10,
+      "state": "Bihar",
+      "district_code": 203,
+      "district": "Kishanganj"
+    },
+    {
+      "state_code": 10,
+      "state": "Bihar",
+      "district_code": 204,
+      "district": "Lakhisarai"
+    },
+    {
+      "state_code": 10,
+      "state": "Bihar",
+      "district_code": 205,
+      "district": "Madhepura"
+    },
+    {
+      "state_code": 10,
+      "state": "Bihar",
+      "district_code": 206,
+      "district": "Madhubani"
+    },
+    {
+      "state_code": 10,
+      "state": "Bihar",
+      "district_code": 207,
+      "district": "Munger"
+    },
+    {
+      "state_code": 10,
+      "state": "Bihar",
+      "district_code": 208,
+      "district": "Muzaffarpur"
+    },
+    {
+      "state_code": 10,
+      "state": "Bihar",
+      "district_code": 209,
+      "district": "Nalanda"
+    },
+    {
+      "state_code": 10,
+      "state": "Bihar",
+      "district_code": 210,
+      "district": "Nawada"
+    },
+    {
+      "state_code": 10,
+      "state": "Bihar",
+      "district_code": 211,
+      "district": "Pashchim Champaran"
+    },
+    {
+      "state_code": 10,
+      "state": "Bihar",
+      "district_code": 212,
+      "district": "Patna"
+    },
+    {
+      "state_code": 10,
+      "state": "Bihar",
+      "district_code": 213,
+      "district": "Purbi Champaran"
+    },
+    {
+      "state_code": 10,
+      "state": "Bihar",
+      "district_code": 214,
+      "district": "Purnia"
+    },
+    {
+      "state_code": 10,
+      "state": "Bihar",
+      "district_code": 215,
+      "district": "Rohtas"
+    },
+    {
+      "state_code": 10,
+      "state": "Bihar",
+      "district_code": 216,
+      "district": "Saharsa"
+    },
+    {
+      "state_code": 10,
+      "state": "Bihar",
+      "district_code": 217,
+      "district": "Samastipur"
+    },
+    {
+      "state_code": 10,
+      "state": "Bihar",
+      "district_code": 218,
+      "district": "Saran"
+    },
+    {
+      "state_code": 10,
+      "state": "Bihar",
+      "district_code": 219,
+      "district": "Sheikhpura"
+    },
+    {
+      "state_code": 10,
+      "state": "Bihar",
+      "district_code": 220,
+      "district": "Sheohar"
+    },
+    {
+      "state_code": 10,
+      "state": "Bihar",
+      "district_code": 221,
+      "district": "Sitamarhi"
+    },
+    {
+      "state_code": 10,
+      "state": "Bihar",
+      "district_code": 222,
+      "district": "Siwan"
+    },
+    {
+      "state_code": 10,
+      "state": "Bihar",
+      "district_code": 223,
+      "district": "Supaul"
+    },
+    {
+      "state_code": 10,
+      "state": "Bihar",
+      "district_code": 224,
+      "district": "Vaishali"
+    },
+    {
+      "state_code": 4,
+      "state": "Chandigarh",
+      "district_code": 44,
+      "district": "Chandigarh"
+    },
+    {
+      "state_code": 22,
+      "state": "Chhattisgarh",
+      "district_code": 646,
+      "district": "Balod"
+    },
+    {
+      "state_code": 22,
+      "state": "Chhattisgarh",
+      "district_code": 644,
+      "district": "Balodabazar-Bhatapara"
+    },
+    {
+      "state_code": 22,
+      "state": "Chhattisgarh",
+      "district_code": 649,
+      "district": "Balrampur Ramanujganj"
+    },
+    {
+      "state_code": 22,
+      "state": "Chhattisgarh",
+      "district_code": 374,
+      "district": "Bastar"
+    },
+    {
+      "state_code": 22,
+      "state": "Chhattisgarh",
+      "district_code": 650,
+      "district": "Bemetara"
+    },
+    {
+      "state_code": 22,
+      "state": "Chhattisgarh",
+      "district_code": 636,
+      "district": "Bijapur"
+    },
+    {
+      "state_code": 22,
+      "state": "Chhattisgarh",
+      "district_code": 375,
+      "district": "Bilaspur"
+    },
+    {
+      "state_code": 22,
+      "state": "Chhattisgarh",
+      "district_code": 376,
+      "district": "Dakshin Bastar Dantewada"
+    },
+    {
+      "state_code": 22,
+      "state": "Chhattisgarh",
+      "district_code": 377,
+      "district": "Dhamtari"
+    },
+    {
+      "state_code": 22,
+      "state": "Chhattisgarh",
+      "district_code": 378,
+      "district": "Durg"
+    },
+    {
+      "state_code": 22,
+      "state": "Chhattisgarh",
+      "district_code": 645,
+      "district": "Gariyaband"
+    },
+    {
+      "state_code": 22,
+      "state": "Chhattisgarh",
+      "district_code": 734,
+      "district": "Gaurela Pendra Marwahi"
+    },
+    {
+      "state_code": 22,
+      "state": "Chhattisgarh",
+      "district_code": 379,
+      "district": "Janjgir-Champa"
+    },
+    {
+      "state_code": 22,
+      "state": "Chhattisgarh",
+      "district_code": 380,
+      "district": "Jashpur"
+    },
+    {
+      "state_code": 22,
+      "state": "Chhattisgarh",
+      "district_code": 382,
+      "district": "Kabeerdham"
+    },
+    {
+      "state_code": 22,
+      "state": "Chhattisgarh",
+      "district_code": 759,
+      "district": "Khairagarh Chhuikhadan Gandai"
+    },
+    {
+      "state_code": 22,
+      "state": "Chhattisgarh",
+      "district_code": 643,
+      "district": "Kondagaon"
+    },
+    {
+      "state_code": 22,
+      "state": "Chhattisgarh",
+      "district_code": 383,
+      "district": "Korba"
+    },
+    {
+      "state_code": 22,
+      "state": "Chhattisgarh",
+      "district_code": 384,
+      "district": "Korea"
+    },
+    {
+      "state_code": 22,
+      "state": "Chhattisgarh",
+      "district_code": 385,
+      "district": "Mahasamund"
+    },
+    {
+      "state_code": 22,
+      "state": "Chhattisgarh",
+      "district_code": 760,
+      "district": "Manendragarh Chirmiri Bharatpur Mcb"
+    },
+    {
+      "state_code": 22,
+      "state": "Chhattisgarh",
+      "district_code": 761,
+      "district": "Mohla Manpur Ambagarh Chouki"
+    },
+    {
+      "state_code": 22,
+      "state": "Chhattisgarh",
+      "district_code": 647,
+      "district": "Mungeli"
+    },
+    {
+      "state_code": 22,
+      "state": "Chhattisgarh",
+      "district_code": 637,
+      "district": "Narayanpur"
+    },
+    {
+      "state_code": 22,
+      "state": "Chhattisgarh",
+      "district_code": 386,
+      "district": "Raigarh"
+    },
+    {
+      "state_code": 22,
+      "state": "Chhattisgarh",
+      "district_code": 387,
+      "district": "Raipur"
+    },
+    {
+      "state_code": 22,
+      "state": "Chhattisgarh",
+      "district_code": 388,
+      "district": "Rajnandgaon"
+    },
+    {
+      "state_code": 22,
+      "state": "Chhattisgarh",
+      "district_code": 762,
+      "district": "Sakti"
+    },
+    {
+      "state_code": 22,
+      "state": "Chhattisgarh",
+      "district_code": 763,
+      "district": "Sarangarh Bilaigarh"
+    },
+    {
+      "state_code": 22,
+      "state": "Chhattisgarh",
+      "district_code": 642,
+      "district": "Sukma"
+    },
+    {
+      "state_code": 22,
+      "state": "Chhattisgarh",
+      "district_code": 648,
+      "district": "Surajpur"
+    },
+    {
+      "state_code": 22,
+      "state": "Chhattisgarh",
+      "district_code": 389,
+      "district": "Surguja"
+    },
+    {
+      "state_code": 22,
+      "state": "Chhattisgarh",
+      "district_code": 381,
+      "district": "Uttar Bastar Kanker"
+    },
+    {
+      "state_code": 7,
+      "state": "Delhi",
+      "district_code": 77,
+      "district": "Central"
+    },
+    {
+      "state_code": 7,
+      "state": "Delhi",
+      "district_code": 78,
+      "district": "East"
+    },
+    {
+      "state_code": 7,
+      "state": "Delhi",
+      "district_code": 79,
+      "district": "New Delhi"
+    },
+    {
+      "state_code": 7,
+      "state": "Delhi",
+      "district_code": 80,
+      "district": "North"
+    },
+    {
+      "state_code": 7,
+      "state": "Delhi",
+      "district_code": 81,
+      "district": "North East"
+    },
+    {
+      "state_code": 7,
+      "state": "Delhi",
+      "district_code": 82,
+      "district": "North West"
+    },
+    {
+      "state_code": 7,
+      "state": "Delhi",
+      "district_code": 671,
+      "district": "Shahdara"
+    },
+    {
+      "state_code": 7,
+      "state": "Delhi",
+      "district_code": 83,
+      "district": "South"
+    },
+    {
+      "state_code": 7,
+      "state": "Delhi",
+      "district_code": 670,
+      "district": "South East"
+    },
+    {
+      "state_code": 7,
+      "state": "Delhi",
+      "district_code": 84,
+      "district": "South West"
+    },
+    {
+      "state_code": 7,
+      "state": "Delhi",
+      "district_code": 85,
+      "district": "West"
+    },
+    {
+      "state_code": 30,
+      "state": "Goa",
+      "district_code": 551,
+      "district": "North Goa"
+    },
+    {
+      "state_code": 30,
+      "state": "Goa",
+      "district_code": 552,
+      "district": "South Goa"
+    },
+    {
+      "state_code": 24,
+      "state": "Gujarat",
+      "district_code": 438,
+      "district": "Ahmedabad"
+    },
+    {
+      "state_code": 24,
+      "state": "Gujarat",
+      "district_code": 439,
+      "district": "Amreli"
+    },
+    {
+      "state_code": 24,
+      "state": "Gujarat",
+      "district_code": 440,
+      "district": "Anand"
+    },
+    {
+      "state_code": 24,
+      "state": "Gujarat",
+      "district_code": 672,
+      "district": "Arvalli"
+    },
+    {
+      "state_code": 24,
+      "state": "Gujarat",
+      "district_code": 441,
+      "district": "Banas Kantha"
+    },
+    {
+      "state_code": 24,
+      "state": "Gujarat",
+      "district_code": 442,
+      "district": "Bharuch"
+    },
+    {
+      "state_code": 24,
+      "state": "Gujarat",
+      "district_code": 443,
+      "district": "Bhavnagar"
+    },
+    {
+      "state_code": 24,
+      "state": "Gujarat",
+      "district_code": 676,
+      "district": "Botad"
+    },
+    {
+      "state_code": 24,
+      "state": "Gujarat",
+      "district_code": 668,
+      "district": "Chhotaudepur"
+    },
+    {
+      "state_code": 24,
+      "state": "Gujarat",
+      "district_code": 445,
+      "district": "Dahod"
+    },
+    {
+      "state_code": 24,
+      "state": "Gujarat",
+      "district_code": 444,
+      "district": "Dangs"
+    },
+    {
+      "state_code": 24,
+      "state": "Gujarat",
+      "district_code": 674,
+      "district": "Devbhumi Dwarka"
+    },
+    {
+      "state_code": 24,
+      "state": "Gujarat",
+      "district_code": 446,
+      "district": "Gandhinagar"
+    },
+    {
+      "state_code": 24,
+      "state": "Gujarat",
+      "district_code": 675,
+      "district": "Gir Somnath"
+    },
+    {
+      "state_code": 24,
+      "state": "Gujarat",
+      "district_code": 447,
+      "district": "Jamnagar"
+    },
+    {
+      "state_code": 24,
+      "state": "Gujarat",
+      "district_code": 448,
+      "district": "Junagadh"
+    },
+    {
+      "state_code": 24,
+      "state": "Gujarat",
+      "district_code": 449,
+      "district": "Kachchh"
+    },
+    {
+      "state_code": 24,
+      "state": "Gujarat",
+      "district_code": 450,
+      "district": "Kheda"
+    },
+    {
+      "state_code": 24,
+      "state": "Gujarat",
+      "district_code": 451,
+      "district": "Mahesana"
+    },
+    {
+      "state_code": 24,
+      "state": "Gujarat",
+      "district_code": 669,
+      "district": "Mahisagar"
+    },
+    {
+      "state_code": 24,
+      "state": "Gujarat",
+      "district_code": 673,
+      "district": "Morbi"
+    },
+    {
+      "state_code": 24,
+      "state": "Gujarat",
+      "district_code": 452,
+      "district": "Narmada"
+    },
+    {
+      "state_code": 24,
+      "state": "Gujarat",
+      "district_code": 453,
+      "district": "Navsari"
+    },
+    {
+      "state_code": 24,
+      "state": "Gujarat",
+      "district_code": 454,
+      "district": "Panch Mahals"
+    },
+    {
+      "state_code": 24,
+      "state": "Gujarat",
+      "district_code": 455,
+      "district": "Patan"
+    },
+    {
+      "state_code": 24,
+      "state": "Gujarat",
+      "district_code": 456,
+      "district": "Porbandar"
+    },
+    {
+      "state_code": 24,
+      "state": "Gujarat",
+      "district_code": 457,
+      "district": "Rajkot"
+    },
+    {
+      "state_code": 24,
+      "state": "Gujarat",
+      "district_code": 458,
+      "district": "Sabar Kantha"
+    },
+    {
+      "state_code": 24,
+      "state": "Gujarat",
+      "district_code": 459,
+      "district": "Surat"
+    },
+    {
+      "state_code": 24,
+      "state": "Gujarat",
+      "district_code": 460,
+      "district": "Surendranagar"
+    },
+    {
+      "state_code": 24,
+      "state": "Gujarat",
+      "district_code": 641,
+      "district": "Tapi"
+    },
+    {
+      "state_code": 24,
+      "state": "Gujarat",
+      "district_code": 461,
+      "district": "Vadodara"
+    },
+    {
+      "state_code": 24,
+      "state": "Gujarat",
+      "district_code": 462,
+      "district": "Valsad"
+    },
+    {
+      "state_code": 6,
+      "state": "Haryana",
+      "district_code": 58,
+      "district": "Ambala"
+    },
+    {
+      "state_code": 6,
+      "state": "Haryana",
+      "district_code": 59,
+      "district": "Bhiwani"
+    },
+    {
+      "state_code": 6,
+      "state": "Haryana",
+      "district_code": 701,
+      "district": "Charki Dadri"
+    },
+    {
+      "state_code": 6,
+      "state": "Haryana",
+      "district_code": 60,
+      "district": "Faridabad"
+    },
+    {
+      "state_code": 6,
+      "state": "Haryana",
+      "district_code": 61,
+      "district": "Fatehabad"
+    },
+    {
+      "state_code": 6,
+      "state": "Haryana",
+      "district_code": 62,
+      "district": "Gurugram"
+    },
+    {
+      "state_code": 6,
+      "state": "Haryana",
+      "district_code": 63,
+      "district": "Hisar"
+    },
+    {
+      "state_code": 6,
+      "state": "Haryana",
+      "district_code": 64,
+      "district": "Jhajjar"
+    },
+    {
+      "state_code": 6,
+      "state": "Haryana",
+      "district_code": 65,
+      "district": "Jind"
+    },
+    {
+      "state_code": 6,
+      "state": "Haryana",
+      "district_code": 66,
+      "district": "Kaithal"
+    },
+    {
+      "state_code": 6,
+      "state": "Haryana",
+      "district_code": 67,
+      "district": "Karnal"
+    },
+    {
+      "state_code": 6,
+      "state": "Haryana",
+      "district_code": 68,
+      "district": "Kurukshetra"
+    },
+    {
+      "state_code": 6,
+      "state": "Haryana",
+      "district_code": 69,
+      "district": "Mahendragarh"
+    },
+    {
+      "state_code": 6,
+      "state": "Haryana",
+      "district_code": 604,
+      "district": "Nuh"
+    },
+    {
+      "state_code": 6,
+      "state": "Haryana",
+      "district_code": 619,
+      "district": "Palwal"
+    },
+    {
+      "state_code": 6,
+      "state": "Haryana",
+      "district_code": 70,
+      "district": "Panchkula"
+    },
+    {
+      "state_code": 6,
+      "state": "Haryana",
+      "district_code": 71,
+      "district": "Panipat"
+    },
+    {
+      "state_code": 6,
+      "state": "Haryana",
+      "district_code": 72,
+      "district": "Rewari"
+    },
+    {
+      "state_code": 6,
+      "state": "Haryana",
+      "district_code": 73,
+      "district": "Rohtak"
+    },
+    {
+      "state_code": 6,
+      "state": "Haryana",
+      "district_code": 74,
+      "district": "Sirsa"
+    },
+    {
+      "state_code": 6,
+      "state": "Haryana",
+      "district_code": 75,
+      "district": "Sonipat"
+    },
+    {
+      "state_code": 6,
+      "state": "Haryana",
+      "district_code": 76,
+      "district": "Yamunanagar"
+    },
+    {
+      "state_code": 2,
+      "state": "Himachal Pradesh",
+      "district_code": 15,
+      "district": "Bilaspur"
+    },
+    {
+      "state_code": 2,
+      "state": "Himachal Pradesh",
+      "district_code": 16,
+      "district": "Chamba"
+    },
+    {
+      "state_code": 2,
+      "state": "Himachal Pradesh",
+      "district_code": 17,
+      "district": "Hamirpur"
+    },
+    {
+      "state_code": 2,
+      "state": "Himachal Pradesh",
+      "district_code": 18,
+      "district": "Kangra"
+    },
+    {
+      "state_code": 2,
+      "state": "Himachal Pradesh",
+      "district_code": 19,
+      "district": "Kinnaur"
+    },
+    {
+      "state_code": 2,
+      "state": "Himachal Pradesh",
+      "district_code": 20,
+      "district": "Kullu"
+    },
+    {
+      "state_code": 2,
+      "state": "Himachal Pradesh",
+      "district_code": 21,
+      "district": "Lahul And Spiti"
+    },
+    {
+      "state_code": 2,
+      "state": "Himachal Pradesh",
+      "district_code": 22,
+      "district": "Mandi"
+    },
+    {
+      "state_code": 2,
+      "state": "Himachal Pradesh",
+      "district_code": 23,
+      "district": "Shimla"
+    },
+    {
+      "state_code": 2,
+      "state": "Himachal Pradesh",
+      "district_code": 24,
+      "district": "Sirmaur"
+    },
+    {
+      "state_code": 2,
+      "state": "Himachal Pradesh",
+      "district_code": 25,
+      "district": "Solan"
+    },
+    {
+      "state_code": 2,
+      "state": "Himachal Pradesh",
+      "district_code": 26,
+      "district": "Una"
+    },
+    {
+      "state_code": 1,
+      "state": "Jammu And Kashmir",
+      "district_code": 1,
+      "district": "Anantnag"
+    },
+    {
+      "state_code": 1,
+      "state": "Jammu And Kashmir",
+      "district_code": 623,
+      "district": "Bandipora"
+    },
+    {
+      "state_code": 1,
+      "state": "Jammu And Kashmir",
+      "district_code": 3,
+      "district": "Baramulla"
+    },
+    {
+      "state_code": 1,
+      "state": "Jammu And Kashmir",
+      "district_code": 2,
+      "district": "Budgam"
+    },
+    {
+      "state_code": 1,
+      "state": "Jammu And Kashmir",
+      "district_code": 4,
+      "district": "Doda"
+    },
+    {
+      "state_code": 1,
+      "state": "Jammu And Kashmir",
+      "district_code": 626,
+      "district": "Ganderbal"
+    },
+    {
+      "state_code": 1,
+      "state": "Jammu And Kashmir",
+      "district_code": 5,
+      "district": "Jammu"
+    },
+    {
+      "state_code": 1,
+      "state": "Jammu And Kashmir",
+      "district_code": 7,
+      "district": "Kathua"
+    },
+    {
+      "state_code": 1,
+      "state": "Jammu And Kashmir",
+      "district_code": 620,
+      "district": "Kishtwar"
+    },
+    {
+      "state_code": 1,
+      "state": "Jammu And Kashmir",
+      "district_code": 622,
+      "district": "Kulgam"
+    },
+    {
+      "state_code": 1,
+      "state": "Jammu And Kashmir",
+      "district_code": 8,
+      "district": "Kupwara"
+    },
+    {
+      "state_code": 1,
+      "state": "Jammu And Kashmir",
+      "district_code": 10,
+      "district": "Poonch"
+    },
+    {
+      "state_code": 1,
+      "state": "Jammu And Kashmir",
+      "district_code": 11,
+      "district": "Pulwama"
+    },
+    {
+      "state_code": 1,
+      "state": "Jammu And Kashmir",
+      "district_code": 12,
+      "district": "Rajouri"
+    },
+    {
+      "state_code": 1,
+      "state": "Jammu And Kashmir",
+      "district_code": 621,
+      "district": "Ramban"
+    },
+    {
+      "state_code": 1,
+      "state": "Jammu And Kashmir",
+      "district_code": 627,
+      "district": "Reasi"
+    },
+    {
+      "state_code": 1,
+      "state": "Jammu And Kashmir",
+      "district_code": 624,
+      "district": "Samba"
+    },
+    {
+      "state_code": 1,
+      "state": "Jammu And Kashmir",
+      "district_code": 625,
+      "district": "Shopian"
+    },
+    {
+      "state_code": 1,
+      "state": "Jammu And Kashmir",
+      "district_code": 13,
+      "district": "Srinagar"
+    },
+    {
+      "state_code": 1,
+      "state": "Jammu And Kashmir",
+      "district_code": 14,
+      "district": "Udhampur"
+    },
+    {
+      "state_code": 20,
+      "state": "Jharkhand",
+      "district_code": 322,
+      "district": "Bokaro"
+    },
+    {
+      "state_code": 20,
+      "state": "Jharkhand",
+      "district_code": 323,
+      "district": "Chatra"
+    },
+    {
+      "state_code": 20,
+      "state": "Jharkhand",
+      "district_code": 324,
+      "district": "Deoghar"
+    },
+    {
+      "state_code": 20,
+      "state": "Jharkhand",
+      "district_code": 325,
+      "district": "Dhanbad"
+    },
+    {
+      "state_code": 20,
+      "state": "Jharkhand",
+      "district_code": 326,
+      "district": "Dumka"
+    },
+    {
+      "state_code": 20,
+      "state": "Jharkhand",
+      "district_code": 327,
+      "district": "East Singhbum"
+    },
+    {
+      "state_code": 20,
+      "state": "Jharkhand",
+      "district_code": 328,
+      "district": "Garhwa"
+    },
+    {
+      "state_code": 20,
+      "state": "Jharkhand",
+      "district_code": 329,
+      "district": "Giridih"
+    },
+    {
+      "state_code": 20,
+      "state": "Jharkhand",
+      "district_code": 330,
+      "district": "Godda"
+    },
+    {
+      "state_code": 20,
+      "state": "Jharkhand",
+      "district_code": 331,
+      "district": "Gumla"
+    },
+    {
+      "state_code": 20,
+      "state": "Jharkhand",
+      "district_code": 332,
+      "district": "Hazaribagh"
+    },
+    {
+      "state_code": 20,
+      "state": "Jharkhand",
+      "district_code": 333,
+      "district": "Jamtara"
+    },
+    {
+      "state_code": 20,
+      "state": "Jharkhand",
+      "district_code": 606,
+      "district": "Khunti"
+    },
+    {
+      "state_code": 20,
+      "state": "Jharkhand",
+      "district_code": 334,
+      "district": "Koderma"
+    },
+    {
+      "state_code": 20,
+      "state": "Jharkhand",
+      "district_code": 335,
+      "district": "Latehar"
+    },
+    {
+      "state_code": 20,
+      "state": "Jharkhand",
+      "district_code": 336,
+      "district": "Lohardaga"
+    },
+    {
+      "state_code": 20,
+      "state": "Jharkhand",
+      "district_code": 337,
+      "district": "Pakur"
+    },
+    {
+      "state_code": 20,
+      "state": "Jharkhand",
+      "district_code": 338,
+      "district": "Palamu"
+    },
+    {
+      "state_code": 20,
+      "state": "Jharkhand",
+      "district_code": 607,
+      "district": "Ramgarh"
+    },
+    {
+      "state_code": 20,
+      "state": "Jharkhand",
+      "district_code": 339,
+      "district": "Ranchi"
+    },
+    {
+      "state_code": 20,
+      "state": "Jharkhand",
+      "district_code": 340,
+      "district": "Sahebganj"
+    },
+    {
+      "state_code": 20,
+      "state": "Jharkhand",
+      "district_code": 341,
+      "district": "Saraikela Kharsawan"
+    },
+    {
+      "state_code": 20,
+      "state": "Jharkhand",
+      "district_code": 342,
+      "district": "Simdega"
+    },
+    {
+      "state_code": 20,
+      "state": "Jharkhand",
+      "district_code": 343,
+      "district": "West Singhbhum"
+    },
+    {
+      "state_code": 29,
+      "state": "Karnataka",
+      "district_code": 524,
+      "district": "Bagalkote"
+    },
+    {
+      "state_code": 29,
+      "state": "Karnataka",
+      "district_code": 528,
+      "district": "Ballari"
+    },
+    {
+      "state_code": 29,
+      "state": "Karnataka",
+      "district_code": 527,
+      "district": "Belagavi"
+    },
+    {
+      "state_code": 29,
+      "state": "Karnataka",
+      "district_code": 526,
+      "district": "Bengaluru Rural"
+    },
+    {
+      "state_code": 29,
+      "state": "Karnataka",
+      "district_code": 525,
+      "district": "Bengaluru Urban"
+    },
+    {
+      "state_code": 29,
+      "state": "Karnataka",
+      "district_code": 529,
+      "district": "Bidar"
+    },
+    {
+      "state_code": 29,
+      "state": "Karnataka",
+      "district_code": 531,
+      "district": "Chamarajanagara"
+    },
+    {
+      "state_code": 29,
+      "state": "Karnataka",
+      "district_code": 630,
+      "district": "Chikkaballapura"
+    },
+    {
+      "state_code": 29,
+      "state": "Karnataka",
+      "district_code": 532,
+      "district": "Chikkamagaluru"
+    },
+    {
+      "state_code": 29,
+      "state": "Karnataka",
+      "district_code": 533,
+      "district": "Chitradurga"
+    },
+    {
+      "state_code": 29,
+      "state": "Karnataka",
+      "district_code": 534,
+      "district": "Dakshina Kannada"
+    },
+    {
+      "state_code": 29,
+      "state": "Karnataka",
+      "district_code": 535,
+      "district": "Davangere"
+    },
+    {
+      "state_code": 29,
+      "state": "Karnataka",
+      "district_code": 536,
+      "district": "Dharwad"
+    },
+    {
+      "state_code": 29,
+      "state": "Karnataka",
+      "district_code": 537,
+      "district": "Gadag"
+    },
+    {
+      "state_code": 29,
+      "state": "Karnataka",
+      "district_code": 539,
+      "district": "Hassan"
+    },
+    {
+      "state_code": 29,
+      "state": "Karnataka",
+      "district_code": 540,
+      "district": "Haveri"
+    },
+    {
+      "state_code": 29,
+      "state": "Karnataka",
+      "district_code": 538,
+      "district": "Kalaburagi"
+    },
+    {
+      "state_code": 29,
+      "state": "Karnataka",
+      "district_code": 541,
+      "district": "Kodagu"
+    },
+    {
+      "state_code": 29,
+      "state": "Karnataka",
+      "district_code": 542,
+      "district": "Kolar"
+    },
+    {
+      "state_code": 29,
+      "state": "Karnataka",
+      "district_code": 543,
+      "district": "Koppal"
+    },
+    {
+      "state_code": 29,
+      "state": "Karnataka",
+      "district_code": 544,
+      "district": "Mandya"
+    },
+    {
+      "state_code": 29,
+      "state": "Karnataka",
+      "district_code": 545,
+      "district": "Mysuru"
+    },
+    {
+      "state_code": 29,
+      "state": "Karnataka",
+      "district_code": 546,
+      "district": "Raichur"
+    },
+    {
+      "state_code": 29,
+      "state": "Karnataka",
+      "district_code": 631,
+      "district": "Ramanagara"
+    },
+    {
+      "state_code": 29,
+      "state": "Karnataka",
+      "district_code": 547,
+      "district": "Shivamogga"
+    },
+    {
+      "state_code": 29,
+      "state": "Karnataka",
+      "district_code": 548,
+      "district": "Tumakuru"
+    },
+    {
+      "state_code": 29,
+      "state": "Karnataka",
+      "district_code": 549,
+      "district": "Udupi"
+    },
+    {
+      "state_code": 29,
+      "state": "Karnataka",
+      "district_code": 550,
+      "district": "Uttara Kannada"
+    },
+    {
+      "state_code": 29,
+      "state": "Karnataka",
+      "district_code": 738,
+      "district": "Vijayanagar"
+    },
+    {
+      "state_code": 29,
+      "state": "Karnataka",
+      "district_code": 530,
+      "district": "Vijayapura"
+    },
+    {
+      "state_code": 29,
+      "state": "Karnataka",
+      "district_code": 635,
+      "district": "Yadgir"
+    },
+    {
+      "state_code": 32,
+      "state": "Kerala",
+      "district_code": 554,
+      "district": "Alappuzha"
+    },
+    {
+      "state_code": 32,
+      "state": "Kerala",
+      "district_code": 555,
+      "district": "Ernakulam"
+    },
+    {
+      "state_code": 32,
+      "state": "Kerala",
+      "district_code": 556,
+      "district": "Idukki"
+    },
+    {
+      "state_code": 32,
+      "state": "Kerala",
+      "district_code": 557,
+      "district": "Kannur"
+    },
+    {
+      "state_code": 32,
+      "state": "Kerala",
+      "district_code": 558,
+      "district": "Kasaragod"
+    },
+    {
+      "state_code": 32,
+      "state": "Kerala",
+      "district_code": 559,
+      "district": "Kollam"
+    },
+    {
+      "state_code": 32,
+      "state": "Kerala",
+      "district_code": 560,
+      "district": "Kottayam"
+    },
+    {
+      "state_code": 32,
+      "state": "Kerala",
+      "district_code": 561,
+      "district": "Kozhikode"
+    },
+    {
+      "state_code": 32,
+      "state": "Kerala",
+      "district_code": 562,
+      "district": "Malappuram"
+    },
+    {
+      "state_code": 32,
+      "state": "Kerala",
+      "district_code": 563,
+      "district": "Palakkad"
+    },
+    {
+      "state_code": 32,
+      "state": "Kerala",
+      "district_code": 564,
+      "district": "Pathanamthitta"
+    },
+    {
+      "state_code": 32,
+      "state": "Kerala",
+      "district_code": 565,
+      "district": "Thiruvananthapuram"
+    },
+    {
+      "state_code": 32,
+      "state": "Kerala",
+      "district_code": 566,
+      "district": "Thrissur"
+    },
+    {
+      "state_code": 32,
+      "state": "Kerala",
+      "district_code": 567,
+      "district": "Wayanad"
+    },
+    {
+      "state_code": 37,
+      "state": "Ladakh",
+      "district_code": 6,
+      "district": "Kargil"
+    },
+    {
+      "state_code": 37,
+      "state": "Ladakh",
+      "district_code": 9,
+      "district": "Leh Ladakh"
+    },
+    {
+      "state_code": 31,
+      "state": "Lakshadweep",
+      "district_code": 553,
+      "district": "Lakshadweep District"
+    },
+    {
+      "state_code": 23,
+      "state": "Madhya Pradesh",
+      "district_code": 667,
+      "district": "Agar-Malwa"
+    },
+    {
+      "state_code": 23,
+      "state": "Madhya Pradesh",
+      "district_code": 639,
+      "district": "Alirajpur"
+    },
+    {
+      "state_code": 23,
+      "state": "Madhya Pradesh",
+      "district_code": 390,
+      "district": "Anuppur"
+    },
+    {
+      "state_code": 23,
+      "state": "Madhya Pradesh",
+      "district_code": 391,
+      "district": "Ashoknagar"
+    },
+    {
+      "state_code": 23,
+      "state": "Madhya Pradesh",
+      "district_code": 392,
+      "district": "Balaghat"
+    },
+    {
+      "state_code": 23,
+      "state": "Madhya Pradesh",
+      "district_code": 393,
+      "district": "Barwani"
+    },
+    {
+      "state_code": 23,
+      "state": "Madhya Pradesh",
+      "district_code": 394,
+      "district": "Betul"
+    },
+    {
+      "state_code": 23,
+      "state": "Madhya Pradesh",
+      "district_code": 395,
+      "district": "Bhind"
+    },
+    {
+      "state_code": 23,
+      "state": "Madhya Pradesh",
+      "district_code": 396,
+      "district": "Bhopal"
+    },
+    {
+      "state_code": 23,
+      "state": "Madhya Pradesh",
+      "district_code": 397,
+      "district": "Burhanpur"
+    },
+    {
+      "state_code": 23,
+      "state": "Madhya Pradesh",
+      "district_code": 398,
+      "district": "Chhatarpur"
+    },
+    {
+      "state_code": 23,
+      "state": "Madhya Pradesh",
+      "district_code": 399,
+      "district": "Chhindwara"
+    },
+    {
+      "state_code": 23,
+      "state": "Madhya Pradesh",
+      "district_code": 400,
+      "district": "Damoh"
+    },
+    {
+      "state_code": 23,
+      "state": "Madhya Pradesh",
+      "district_code": 401,
+      "district": "Datia"
+    },
+    {
+      "state_code": 23,
+      "state": "Madhya Pradesh",
+      "district_code": 402,
+      "district": "Dewas"
+    },
+    {
+      "state_code": 23,
+      "state": "Madhya Pradesh",
+      "district_code": 403,
+      "district": "Dhar"
+    },
+    {
+      "state_code": 23,
+      "state": "Madhya Pradesh",
+      "district_code": 404,
+      "district": "Dindori"
+    },
+    {
+      "state_code": 23,
+      "state": "Madhya Pradesh",
+      "district_code": 406,
+      "district": "Guna"
+    },
+    {
+      "state_code": 23,
+      "state": "Madhya Pradesh",
+      "district_code": 407,
+      "district": "Gwalior"
+    },
+    {
+      "state_code": 23,
+      "state": "Madhya Pradesh",
+      "district_code": 408,
+      "district": "Harda"
+    },
+    {
+      "state_code": 23,
+      "state": "Madhya Pradesh",
+      "district_code": 410,
+      "district": "Indore"
+    },
+    {
+      "state_code": 23,
+      "state": "Madhya Pradesh",
+      "district_code": 411,
+      "district": "Jabalpur"
+    },
+    {
+      "state_code": 23,
+      "state": "Madhya Pradesh",
+      "district_code": 412,
+      "district": "Jhabua"
+    },
+    {
+      "state_code": 23,
+      "state": "Madhya Pradesh",
+      "district_code": 413,
+      "district": "Katni"
+    },
+    {
+      "state_code": 23,
+      "state": "Madhya Pradesh",
+      "district_code": 405,
+      "district": "Khandwa (East Nimar)"
+    },
+    {
+      "state_code": 23,
+      "state": "Madhya Pradesh",
+      "district_code": 414,
+      "district": "Khargone (West Nimar)"
+    },
+    {
+      "state_code": 23,
+      "state": "Madhya Pradesh",
+      "district_code": 784,
+      "district": "Maihar"
+    },
+    {
+      "state_code": 23,
+      "state": "Madhya Pradesh",
+      "district_code": 415,
+      "district": "Mandla"
+    },
+    {
+      "state_code": 23,
+      "state": "Madhya Pradesh",
+      "district_code": 416,
+      "district": "Mandsaur"
+    },
+    {
+      "state_code": 23,
+      "state": "Madhya Pradesh",
+      "district_code": 766,
+      "district": "MAUGANJ"
+    },
+    {
+      "state_code": 23,
+      "state": "Madhya Pradesh",
+      "district_code": 417,
+      "district": "Morena"
+    },
+    {
+      "state_code": 23,
+      "state": "Madhya Pradesh",
+      "district_code": 409,
+      "district": "Narmadapuram"
+    },
+    {
+      "state_code": 23,
+      "state": "Madhya Pradesh",
+      "district_code": 418,
+      "district": "Narsimhapur"
+    },
+    {
+      "state_code": 23,
+      "state": "Madhya Pradesh",
+      "district_code": 419,
+      "district": "Neemuch"
+    },
+    {
+      "state_code": 23,
+      "state": "Madhya Pradesh",
+      "district_code": 722,
+      "district": "Niwari"
+    },
+    {
+      "state_code": 23,
+      "state": "Madhya Pradesh",
+      "district_code": 785,
+      "district": "Pandhurna"
+    },
+    {
+      "state_code": 23,
+      "state": "Madhya Pradesh",
+      "district_code": 420,
+      "district": "Panna"
+    },
+    {
+      "state_code": 23,
+      "state": "Madhya Pradesh",
+      "district_code": 421,
+      "district": "Raisen"
+    },
+    {
+      "state_code": 23,
+      "state": "Madhya Pradesh",
+      "district_code": 422,
+      "district": "Rajgarh"
+    },
+    {
+      "state_code": 23,
+      "state": "Madhya Pradesh",
+      "district_code": 423,
+      "district": "Ratlam"
+    },
+    {
+      "state_code": 23,
+      "state": "Madhya Pradesh",
+      "district_code": 424,
+      "district": "Rewa"
+    },
+    {
+      "state_code": 23,
+      "state": "Madhya Pradesh",
+      "district_code": 425,
+      "district": "Sagar"
+    },
+    {
+      "state_code": 23,
+      "state": "Madhya Pradesh",
+      "district_code": 426,
+      "district": "Satna"
+    },
+    {
+      "state_code": 23,
+      "state": "Madhya Pradesh",
+      "district_code": 427,
+      "district": "Sehore"
+    },
+    {
+      "state_code": 23,
+      "state": "Madhya Pradesh",
+      "district_code": 428,
+      "district": "Seoni"
+    },
+    {
+      "state_code": 23,
+      "state": "Madhya Pradesh",
+      "district_code": 429,
+      "district": "Shahdol"
+    },
+    {
+      "state_code": 23,
+      "state": "Madhya Pradesh",
+      "district_code": 430,
+      "district": "Shajapur"
+    },
+    {
+      "state_code": 23,
+      "state": "Madhya Pradesh",
+      "district_code": 431,
+      "district": "Sheopur"
+    },
+    {
+      "state_code": 23,
+      "state": "Madhya Pradesh",
+      "district_code": 432,
+      "district": "Shivpuri"
+    },
+    {
+      "state_code": 23,
+      "state": "Madhya Pradesh",
+      "district_code": 433,
+      "district": "Sidhi"
+    },
+    {
+      "state_code": 23,
+      "state": "Madhya Pradesh",
+      "district_code": 638,
+      "district": "Singrauli"
+    },
+    {
+      "state_code": 23,
+      "state": "Madhya Pradesh",
+      "district_code": 434,
+      "district": "Tikamgarh"
+    },
+    {
+      "state_code": 23,
+      "state": "Madhya Pradesh",
+      "district_code": 435,
+      "district": "Ujjain"
+    },
+    {
+      "state_code": 23,
+      "state": "Madhya Pradesh",
+      "district_code": 436,
+      "district": "Umaria"
+    },
+    {
+      "state_code": 23,
+      "state": "Madhya Pradesh",
+      "district_code": 437,
+      "district": "Vidisha"
+    },
+    {
+      "state_code": 27,
+      "state": "Maharashtra",
+      "district_code": 466,
+      "district": "Ahmednagar"
+    },
+    {
+      "state_code": 27,
+      "state": "Maharashtra",
+      "district_code": 467,
+      "district": "Akola"
+    },
+    {
+      "state_code": 27,
+      "state": "Maharashtra",
+      "district_code": 468,
+      "district": "Amravati"
+    },
+    {
+      "state_code": 27,
+      "state": "Maharashtra",
+      "district_code": 470,
+      "district": "Beed"
+    },
+    {
+      "state_code": 27,
+      "state": "Maharashtra",
+      "district_code": 471,
+      "district": "Bhandara"
+    },
+    {
+      "state_code": 27,
+      "state": "Maharashtra",
+      "district_code": 472,
+      "district": "Buldhana"
+    },
+    {
+      "state_code": 27,
+      "state": "Maharashtra",
+      "district_code": 473,
+      "district": "Chandrapur"
+    },
+    {
+      "state_code": 27,
+      "state": "Maharashtra",
+      "district_code": 469,
+      "district": "Chhatrapati Sambhajinagar"
+    },
+    {
+      "state_code": 27,
+      "state": "Maharashtra",
+      "district_code": 488,
+      "district": "Dharashiv"
+    },
+    {
+      "state_code": 27,
+      "state": "Maharashtra",
+      "district_code": 474,
+      "district": "Dhule"
+    },
+    {
+      "state_code": 27,
+      "state": "Maharashtra",
+      "district_code": 475,
+      "district": "Gadchiroli"
+    },
+    {
+      "state_code": 27,
+      "state": "Maharashtra",
+      "district_code": 476,
+      "district": "Gondia"
+    },
+    {
+      "state_code": 27,
+      "state": "Maharashtra",
+      "district_code": 477,
+      "district": "Hingoli"
+    },
+    {
+      "state_code": 27,
+      "state": "Maharashtra",
+      "district_code": 478,
+      "district": "Jalgaon"
+    },
+    {
+      "state_code": 27,
+      "state": "Maharashtra",
+      "district_code": 479,
+      "district": "Jalna"
+    },
+    {
+      "state_code": 27,
+      "state": "Maharashtra",
+      "district_code": 480,
+      "district": "Kolhapur"
+    },
+    {
+      "state_code": 27,
+      "state": "Maharashtra",
+      "district_code": 481,
+      "district": "Latur"
+    },
+    {
+      "state_code": 27,
+      "state": "Maharashtra",
+      "district_code": 482,
+      "district": "Mumbai"
+    },
+    {
+      "state_code": 27,
+      "state": "Maharashtra",
+      "district_code": 483,
+      "district": "Mumbai Suburban"
+    },
+    {
+      "state_code": 27,
+      "state": "Maharashtra",
+      "district_code": 484,
+      "district": "Nagpur"
+    },
+    {
+      "state_code": 27,
+      "state": "Maharashtra",
+      "district_code": 485,
+      "district": "Nanded"
+    },
+    {
+      "state_code": 27,
+      "state": "Maharashtra",
+      "district_code": 486,
+      "district": "Nandurbar"
+    },
+    {
+      "state_code": 27,
+      "state": "Maharashtra",
+      "district_code": 487,
+      "district": "Nashik"
+    },
+    {
+      "state_code": 27,
+      "state": "Maharashtra",
+      "district_code": 665,
+      "district": "Palghar"
+    },
+    {
+      "state_code": 27,
+      "state": "Maharashtra",
+      "district_code": 489,
+      "district": "Parbhani"
+    },
+    {
+      "state_code": 27,
+      "state": "Maharashtra",
+      "district_code": 490,
+      "district": "Pune"
+    },
+    {
+      "state_code": 27,
+      "state": "Maharashtra",
+      "district_code": 491,
+      "district": "Raigad"
+    },
+    {
+      "state_code": 27,
+      "state": "Maharashtra",
+      "district_code": 492,
+      "district": "Ratnagiri"
+    },
+    {
+      "state_code": 27,
+      "state": "Maharashtra",
+      "district_code": 493,
+      "district": "Sangli"
+    },
+    {
+      "state_code": 27,
+      "state": "Maharashtra",
+      "district_code": 494,
+      "district": "Satara"
+    },
+    {
+      "state_code": 27,
+      "state": "Maharashtra",
+      "district_code": 495,
+      "district": "Sindhudurg"
+    },
+    {
+      "state_code": 27,
+      "state": "Maharashtra",
+      "district_code": 496,
+      "district": "Solapur"
+    },
+    {
+      "state_code": 27,
+      "state": "Maharashtra",
+      "district_code": 497,
+      "district": "Thane"
+    },
+    {
+      "state_code": 27,
+      "state": "Maharashtra",
+      "district_code": 498,
+      "district": "Wardha"
+    },
+    {
+      "state_code": 27,
+      "state": "Maharashtra",
+      "district_code": 499,
+      "district": "Washim"
+    },
+    {
+      "state_code": 27,
+      "state": "Maharashtra",
+      "district_code": 500,
+      "district": "Yavatmal"
+    },
+    {
+      "state_code": 14,
+      "state": "Manipur",
+      "district_code": 252,
+      "district": "Bishnupur"
+    },
+    {
+      "state_code": 14,
+      "state": "Manipur",
+      "district_code": 253,
+      "district": "Chandel"
+    },
+    {
+      "state_code": 14,
+      "state": "Manipur",
+      "district_code": 254,
+      "district": "Churachandpur"
+    },
+    {
+      "state_code": 14,
+      "state": "Manipur",
+      "district_code": 255,
+      "district": "Imphal East"
+    },
+    {
+      "state_code": 14,
+      "state": "Manipur",
+      "district_code": 256,
+      "district": "Imphal West"
+    },
+    {
+      "state_code": 14,
+      "state": "Manipur",
+      "district_code": 713,
+      "district": "Jiribam"
+    },
+    {
+      "state_code": 14,
+      "state": "Manipur",
+      "district_code": 711,
+      "district": "Kakching"
+    },
+    {
+      "state_code": 14,
+      "state": "Manipur",
+      "district_code": 717,
+      "district": "Kamjong"
+    },
+    {
+      "state_code": 14,
+      "state": "Manipur",
+      "district_code": 712,
+      "district": "Kangpokpi"
+    },
+    {
+      "state_code": 14,
+      "state": "Manipur",
+      "district_code": 714,
+      "district": "Noney"
+    },
+    {
+      "state_code": 14,
+      "state": "Manipur",
+      "district_code": 715,
+      "district": "Pherzawl"
+    },
+    {
+      "state_code": 14,
+      "state": "Manipur",
+      "district_code": 257,
+      "district": "Senapati"
+    },
+    {
+      "state_code": 14,
+      "state": "Manipur",
+      "district_code": 258,
+      "district": "Tamenglong"
+    },
+    {
+      "state_code": 14,
+      "state": "Manipur",
+      "district_code": 716,
+      "district": "Tengnoupal"
+    },
+    {
+      "state_code": 14,
+      "state": "Manipur",
+      "district_code": 259,
+      "district": "Thoubal"
+    },
+    {
+      "state_code": 14,
+      "state": "Manipur",
+      "district_code": 260,
+      "district": "Ukhrul"
+    },
+    {
+      "state_code": 17,
+      "state": "Meghalaya",
+      "district_code": 740,
+      "district": "Eastern West Khasi Hills"
+    },
+    {
+      "state_code": 17,
+      "state": "Meghalaya",
+      "district_code": 273,
+      "district": "East Garo Hills"
+    },
+    {
+      "state_code": 17,
+      "state": "Meghalaya",
+      "district_code": 657,
+      "district": "East Jaintia Hills"
+    },
+    {
+      "state_code": 17,
+      "state": "Meghalaya",
+      "district_code": 274,
+      "district": "East Khasi Hills"
+    },
+    {
+      "state_code": 17,
+      "state": "Meghalaya",
+      "district_code": 656,
+      "district": "North Garo Hills"
+    },
+    {
+      "state_code": 17,
+      "state": "Meghalaya",
+      "district_code": 276,
+      "district": "Ri Bhoi"
+    },
+    {
+      "state_code": 17,
+      "state": "Meghalaya",
+      "district_code": 277,
+      "district": "South Garo Hills"
+    },
+    {
+      "state_code": 17,
+      "state": "Meghalaya",
+      "district_code": 663,
+      "district": "South West Garo Hills"
+    },
+    {
+      "state_code": 17,
+      "state": "Meghalaya",
+      "district_code": 658,
+      "district": "South West Khasi Hills"
+    },
+    {
+      "state_code": 17,
+      "state": "Meghalaya",
+      "district_code": 278,
+      "district": "West Garo Hills"
+    },
+    {
+      "state_code": 17,
+      "state": "Meghalaya",
+      "district_code": 275,
+      "district": "West Jaintia Hills"
+    },
+    {
+      "state_code": 17,
+      "state": "Meghalaya",
+      "district_code": 279,
+      "district": "West Khasi Hills"
+    },
+    {
+      "state_code": 15,
+      "state": "Mizoram",
+      "district_code": 261,
+      "district": "Aizawl"
+    },
+    {
+      "state_code": 15,
+      "state": "Mizoram",
+      "district_code": 262,
+      "district": "Champhai"
+    },
+    {
+      "state_code": 15,
+      "state": "Mizoram",
+      "district_code": 726,
+      "district": "Hnahthial"
+    },
+    {
+      "state_code": 15,
+      "state": "Mizoram",
+      "district_code": 728,
+      "district": "Khawzawl"
+    },
+    {
+      "state_code": 15,
+      "state": "Mizoram",
+      "district_code": 263,
+      "district": "Kolasib"
+    },
+    {
+      "state_code": 15,
+      "state": "Mizoram",
+      "district_code": 264,
+      "district": "Lawngtlai"
+    },
+    {
+      "state_code": 15,
+      "state": "Mizoram",
+      "district_code": 265,
+      "district": "Lunglei"
+    },
+    {
+      "state_code": 15,
+      "state": "Mizoram",
+      "district_code": 266,
+      "district": "Mamit"
+    },
+    {
+      "state_code": 15,
+      "state": "Mizoram",
+      "district_code": 727,
+      "district": "Saitual"
+    },
+    {
+      "state_code": 15,
+      "state": "Mizoram",
+      "district_code": 268,
+      "district": "Serchhip"
+    },
+    {
+      "state_code": 15,
+      "state": "Mizoram",
+      "district_code": 267,
+      "district": "Siaha"
+    },
+    {
+      "state_code": 13,
+      "state": "Nagaland",
+      "district_code": 758,
+      "district": "Chumoukedima"
+    },
+    {
+      "state_code": 13,
+      "state": "Nagaland",
+      "district_code": 244,
+      "district": "Dimapur"
+    },
+    {
+      "state_code": 13,
+      "state": "Nagaland",
+      "district_code": 614,
+      "district": "Kiphire"
+    },
+    {
+      "state_code": 13,
+      "state": "Nagaland",
+      "district_code": 245,
+      "district": "Kohima"
+    },
+    {
+      "state_code": 13,
+      "state": "Nagaland",
+      "district_code": 615,
+      "district": "Longleng"
+    },
+    {
+      "state_code": 13,
+      "state": "Nagaland",
+      "district_code": 246,
+      "district": "Mokokchung"
+    },
+    {
+      "state_code": 13,
+      "state": "Nagaland",
+      "district_code": 247,
+      "district": "Mon"
+    },
+    {
+      "state_code": 13,
+      "state": "Nagaland",
+      "district_code": 764,
+      "district": "Niuland"
+    },
+    {
+      "state_code": 13,
+      "state": "Nagaland",
+      "district_code": 736,
+      "district": "Noklak"
+    },
+    {
+      "state_code": 13,
+      "state": "Nagaland",
+      "district_code": 613,
+      "district": "Peren"
+    },
+    {
+      "state_code": 13,
+      "state": "Nagaland",
+      "district_code": 248,
+      "district": "Phek"
+    },
+    {
+      "state_code": 13,
+      "state": "Nagaland",
+      "district_code": 765,
+      "district": "Shamator"
+    },
+    {
+      "state_code": 13,
+      "state": "Nagaland",
+      "district_code": 757,
+      "district": "Tseminyu"
+    },
+    {
+      "state_code": 13,
+      "state": "Nagaland",
+      "district_code": 249,
+      "district": "Tuensang"
+    },
+    {
+      "state_code": 13,
+      "state": "Nagaland",
+      "district_code": 250,
+      "district": "Wokha"
+    },
+    {
+      "state_code": 13,
+      "state": "Nagaland",
+      "district_code": 251,
+      "district": "Zunheboto"
+    },
+    {
+      "state_code": 21,
+      "state": "Odisha",
+      "district_code": 344,
+      "district": "Anugul"
+    },
+    {
+      "state_code": 21,
+      "state": "Odisha",
+      "district_code": 345,
+      "district": "Balangir"
+    },
+    {
+      "state_code": 21,
+      "state": "Odisha",
+      "district_code": 346,
+      "district": "Baleshwar"
+    },
+    {
+      "state_code": 21,
+      "state": "Odisha",
+      "district_code": 347,
+      "district": "Bargarh"
+    },
+    {
+      "state_code": 21,
+      "state": "Odisha",
+      "district_code": 348,
+      "district": "Bhadrak"
+    },
+    {
+      "state_code": 21,
+      "state": "Odisha",
+      "district_code": 349,
+      "district": "Boudh"
+    },
+    {
+      "state_code": 21,
+      "state": "Odisha",
+      "district_code": 350,
+      "district": "Cuttack"
+    },
+    {
+      "state_code": 21,
+      "state": "Odisha",
+      "district_code": 351,
+      "district": "Deogarh"
+    },
+    {
+      "state_code": 21,
+      "state": "Odisha",
+      "district_code": 352,
+      "district": "Dhenkanal"
+    },
+    {
+      "state_code": 21,
+      "state": "Odisha",
+      "district_code": 353,
+      "district": "Gajapati"
+    },
+    {
+      "state_code": 21,
+      "state": "Odisha",
+      "district_code": 354,
+      "district": "Ganjam"
+    },
+    {
+      "state_code": 21,
+      "state": "Odisha",
+      "district_code": 355,
+      "district": "Jagatsinghapur"
+    },
+    {
+      "state_code": 21,
+      "state": "Odisha",
+      "district_code": 356,
+      "district": "Jajapur"
+    },
+    {
+      "state_code": 21,
+      "state": "Odisha",
+      "district_code": 357,
+      "district": "Jharsuguda"
+    },
+    {
+      "state_code": 21,
+      "state": "Odisha",
+      "district_code": 358,
+      "district": "Kalahandi"
+    },
+    {
+      "state_code": 21,
+      "state": "Odisha",
+      "district_code": 359,
+      "district": "Kandhamal"
+    },
+    {
+      "state_code": 21,
+      "state": "Odisha",
+      "district_code": 360,
+      "district": "Kendrapara"
+    },
+    {
+      "state_code": 21,
+      "state": "Odisha",
+      "district_code": 361,
+      "district": "Kendujhar"
+    },
+    {
+      "state_code": 21,
+      "state": "Odisha",
+      "district_code": 362,
+      "district": "Khordha"
+    },
+    {
+      "state_code": 21,
+      "state": "Odisha",
+      "district_code": 363,
+      "district": "Koraput"
+    },
+    {
+      "state_code": 21,
+      "state": "Odisha",
+      "district_code": 364,
+      "district": "Malkangiri"
+    },
+    {
+      "state_code": 21,
+      "state": "Odisha",
+      "district_code": 365,
+      "district": "Mayurbhanj"
+    },
+    {
+      "state_code": 21,
+      "state": "Odisha",
+      "district_code": 366,
+      "district": "Nabarangpur"
+    },
+    {
+      "state_code": 21,
+      "state": "Odisha",
+      "district_code": 367,
+      "district": "Nayagarh"
+    },
+    {
+      "state_code": 21,
+      "state": "Odisha",
+      "district_code": 368,
+      "district": "Nuapada"
+    },
+    {
+      "state_code": 21,
+      "state": "Odisha",
+      "district_code": 369,
+      "district": "Puri"
+    },
+    {
+      "state_code": 21,
+      "state": "Odisha",
+      "district_code": 370,
+      "district": "Rayagada"
+    },
+    {
+      "state_code": 21,
+      "state": "Odisha",
+      "district_code": 371,
+      "district": "Sambalpur"
+    },
+    {
+      "state_code": 21,
+      "state": "Odisha",
+      "district_code": 372,
+      "district": "Sonepur"
+    },
+    {
+      "state_code": 21,
+      "state": "Odisha",
+      "district_code": 373,
+      "district": "Sundargarh"
+    },
+    {
+      "state_code": 34,
+      "state": "Puducherry",
+      "district_code": 598,
+      "district": "Karaikal"
+    },
+    {
+      "state_code": 34,
+      "state": "Puducherry",
+      "district_code": 599,
+      "district": "Mahe"
+    },
+    {
+      "state_code": 34,
+      "state": "Puducherry",
+      "district_code": 600,
+      "district": "Pondicherry"
+    },
+    {
+      "state_code": 34,
+      "state": "Puducherry",
+      "district_code": 601,
+      "district": "Yanam"
+    },
+    {
+      "state_code": 3,
+      "state": "Punjab",
+      "district_code": 27,
+      "district": "Amritsar"
+    },
+    {
+      "state_code": 3,
+      "state": "Punjab",
+      "district_code": 605,
+      "district": "Barnala"
+    },
+    {
+      "state_code": 3,
+      "state": "Punjab",
+      "district_code": 28,
+      "district": "Bathinda"
+    },
+    {
+      "state_code": 3,
+      "state": "Punjab",
+      "district_code": 29,
+      "district": "Faridkot"
+    },
+    {
+      "state_code": 3,
+      "state": "Punjab",
+      "district_code": 30,
+      "district": "Fatehgarh Sahib"
+    },
+    {
+      "state_code": 3,
+      "state": "Punjab",
+      "district_code": 651,
+      "district": "Fazilka"
+    },
+    {
+      "state_code": 3,
+      "state": "Punjab",
+      "district_code": 31,
+      "district": "Ferozepur"
+    },
+    {
+      "state_code": 3,
+      "state": "Punjab",
+      "district_code": 32,
+      "district": "Gurdaspur"
+    },
+    {
+      "state_code": 3,
+      "state": "Punjab",
+      "district_code": 33,
+      "district": "Hoshiarpur"
+    },
+    {
+      "state_code": 3,
+      "state": "Punjab",
+      "district_code": 34,
+      "district": "Jalandhar"
+    },
+    {
+      "state_code": 3,
+      "state": "Punjab",
+      "district_code": 35,
+      "district": "Kapurthala"
+    },
+    {
+      "state_code": 3,
+      "state": "Punjab",
+      "district_code": 36,
+      "district": "Ludhiana"
+    },
+    {
+      "state_code": 3,
+      "state": "Punjab",
+      "district_code": 737,
+      "district": "Malerkotla"
+    },
+    {
+      "state_code": 3,
+      "state": "Punjab",
+      "district_code": 37,
+      "district": "Mansa"
+    },
+    {
+      "state_code": 3,
+      "state": "Punjab",
+      "district_code": 38,
+      "district": "Moga"
+    },
+    {
+      "state_code": 3,
+      "state": "Punjab",
+      "district_code": 662,
+      "district": "Pathankot"
+    },
+    {
+      "state_code": 3,
+      "state": "Punjab",
+      "district_code": 41,
+      "district": "Patiala"
+    },
+    {
+      "state_code": 3,
+      "state": "Punjab",
+      "district_code": 42,
+      "district": "Rupnagar"
+    },
+    {
+      "state_code": 3,
+      "state": "Punjab",
+      "district_code": 43,
+      "district": "Sangrur"
+    },
+    {
+      "state_code": 3,
+      "state": "Punjab",
+      "district_code": 608,
+      "district": "S.A.S Nagar"
+    },
+    {
+      "state_code": 3,
+      "state": "Punjab",
+      "district_code": 40,
+      "district": "Shahid Bhagat Singh Nagar"
+    },
+    {
+      "state_code": 3,
+      "state": "Punjab",
+      "district_code": 39,
+      "district": "Sri Muktsar Sahib"
+    },
+    {
+      "state_code": 3,
+      "state": "Punjab",
+      "district_code": 609,
+      "district": "Tarn Taran"
+    },
+    {
+      "state_code": 8,
+      "state": "Rajasthan",
+      "district_code": 86,
+      "district": "Ajmer"
+    },
+    {
+      "state_code": 8,
+      "state": "Rajasthan",
+      "district_code": 87,
+      "district": "Alwar"
+    },
+    {
+      "state_code": 8,
+      "state": "Rajasthan",
+      "district_code": 776,
+      "district": "Anupgarh"
+    },
+    {
+      "state_code": 8,
+      "state": "Rajasthan",
+      "district_code": 775,
+      "district": "Balotra"
+    },
+    {
+      "state_code": 8,
+      "state": "Rajasthan",
+      "district_code": 88,
+      "district": "Banswara"
+    },
+    {
+      "state_code": 8,
+      "state": "Rajasthan",
+      "district_code": 89,
+      "district": "Baran"
+    },
+    {
+      "state_code": 8,
+      "state": "Rajasthan",
+      "district_code": 90,
+      "district": "Barmer"
+    },
+    {
+      "state_code": 8,
+      "state": "Rajasthan",
+      "district_code": 774,
+      "district": "Beawar"
+    },
+    {
+      "state_code": 8,
+      "state": "Rajasthan",
+      "district_code": 91,
+      "district": "Bharatpur"
+    },
+    {
+      "state_code": 8,
+      "state": "Rajasthan",
+      "district_code": 92,
+      "district": "Bhilwara"
+    },
+    {
+      "state_code": 8,
+      "state": "Rajasthan",
+      "district_code": 93,
+      "district": "Bikaner"
+    },
+    {
+      "state_code": 8,
+      "state": "Rajasthan",
+      "district_code": 94,
+      "district": "Bundi"
+    },
+    {
+      "state_code": 8,
+      "state": "Rajasthan",
+      "district_code": 95,
+      "district": "Chittorgarh"
+    },
+    {
+      "state_code": 8,
+      "state": "Rajasthan",
+      "district_code": 96,
+      "district": "Churu"
+    },
+    {
+      "state_code": 8,
+      "state": "Rajasthan",
+      "district_code": 97,
+      "district": "Dausa"
+    },
+    {
+      "state_code": 8,
+      "state": "Rajasthan",
+      "district_code": 767,
+      "district": "Deeg"
+    },
+    {
+      "state_code": 8,
+      "state": "Rajasthan",
+      "district_code": 98,
+      "district": "Dholpur"
+    },
+    {
+      "state_code": 8,
+      "state": "Rajasthan",
+      "district_code": 768,
+      "district": "Didwana-Kuchaman"
+    },
+    {
+      "state_code": 8,
+      "state": "Rajasthan",
+      "district_code": 769,
+      "district": "Dudu"
+    },
+    {
+      "state_code": 8,
+      "state": "Rajasthan",
+      "district_code": 99,
+      "district": "Dungarpur"
+    },
+    {
+      "state_code": 8,
+      "state": "Rajasthan",
+      "district_code": 100,
+      "district": "Ganganagar"
+    },
+    {
+      "state_code": 8,
+      "state": "Rajasthan",
+      "district_code": 771,
+      "district": "Gangapurcity"
+    },
+    {
+      "state_code": 8,
+      "state": "Rajasthan",
+      "district_code": 101,
+      "district": "Hanumangarh"
+    },
+    {
+      "state_code": 8,
+      "state": "Rajasthan",
+      "district_code": 102,
+      "district": "Jaipur"
+    },
+    {
+      "state_code": 8,
+      "state": "Rajasthan",
+      "district_code": 783,
+      "district": "Jaipur (Gramin)"
+    },
+    {
+      "state_code": 8,
+      "state": "Rajasthan",
+      "district_code": 103,
+      "district": "Jaisalmer"
+    },
+    {
+      "state_code": 8,
+      "state": "Rajasthan",
+      "district_code": 104,
+      "district": "Jalore"
+    },
+    {
+      "state_code": 8,
+      "state": "Rajasthan",
+      "district_code": 105,
+      "district": "Jhalawar"
+    },
+    {
+      "state_code": 8,
+      "state": "Rajasthan",
+      "district_code": 106,
+      "district": "Jhunjhunu"
+    },
+    {
+      "state_code": 8,
+      "state": "Rajasthan",
+      "district_code": 107,
+      "district": "Jodhpur"
+    },
+    {
+      "state_code": 8,
+      "state": "Rajasthan",
+      "district_code": 778,
+      "district": "Jodhpur (Gramin)"
+    },
+    {
+      "state_code": 8,
+      "state": "Rajasthan",
+      "district_code": 108,
+      "district": "Karauli"
+    },
+    {
+      "state_code": 8,
+      "state": "Rajasthan",
+      "district_code": 781,
+      "district": "Kekri"
+    },
+    {
+      "state_code": 8,
+      "state": "Rajasthan",
+      "district_code": 770,
+      "district": "Khairthal-Tijara"
+    },
+    {
+      "state_code": 8,
+      "state": "Rajasthan",
+      "district_code": 109,
+      "district": "Kota"
+    },
+    {
+      "state_code": 8,
+      "state": "Rajasthan",
+      "district_code": 782,
+      "district": "Kotputli-Behror"
+    },
+    {
+      "state_code": 8,
+      "state": "Rajasthan",
+      "district_code": 110,
+      "district": "Nagaur"
+    },
+    {
+      "state_code": 8,
+      "state": "Rajasthan",
+      "district_code": 773,
+      "district": "Neem Ka Thana"
+    },
+    {
+      "state_code": 8,
+      "state": "Rajasthan",
+      "district_code": 111,
+      "district": "Pali"
+    },
+    {
+      "state_code": 8,
+      "state": "Rajasthan",
+      "district_code": 772,
+      "district": "Phalodi"
+    },
+    {
+      "state_code": 8,
+      "state": "Rajasthan",
+      "district_code": 629,
+      "district": "Pratapgarh"
+    },
+    {
+      "state_code": 8,
+      "state": "Rajasthan",
+      "district_code": 112,
+      "district": "Rajsamand"
+    },
+    {
+      "state_code": 8,
+      "state": "Rajasthan",
+      "district_code": 777,
+      "district": "Salumbar"
+    },
+    {
+      "state_code": 8,
+      "state": "Rajasthan",
+      "district_code": 779,
+      "district": "Sanchore"
+    },
+    {
+      "state_code": 8,
+      "state": "Rajasthan",
+      "district_code": 113,
+      "district": "Sawai Madhopur"
+    },
+    {
+      "state_code": 8,
+      "state": "Rajasthan",
+      "district_code": 780,
+      "district": "Shahpura"
+    },
+    {
+      "state_code": 8,
+      "state": "Rajasthan",
+      "district_code": 114,
+      "district": "Sikar"
+    },
+    {
+      "state_code": 8,
+      "state": "Rajasthan",
+      "district_code": 115,
+      "district": "Sirohi"
+    },
+    {
+      "state_code": 8,
+      "state": "Rajasthan",
+      "district_code": 116,
+      "district": "Tonk"
+    },
+    {
+      "state_code": 8,
+      "state": "Rajasthan",
+      "district_code": 117,
+      "district": "Udaipur"
+    },
+    {
+      "state_code": 11,
+      "state": "Sikkim",
+      "district_code": 225,
+      "district": "Gangtok"
+    },
+    {
+      "state_code": 11,
+      "state": "Sikkim",
+      "district_code": 228,
+      "district": "Gyalshing"
+    },
+    {
+      "state_code": 11,
+      "state": "Sikkim",
+      "district_code": 226,
+      "district": "Mangan"
+    },
+    {
+      "state_code": 11,
+      "state": "Sikkim",
+      "district_code": 227,
+      "district": "Namchi"
+    },
+    {
+      "state_code": 11,
+      "state": "Sikkim",
+      "district_code": 741,
+      "district": "Pakyong"
+    },
+    {
+      "state_code": 11,
+      "state": "Sikkim",
+      "district_code": 742,
+      "district": "Soreng"
+    },
+    {
+      "state_code": 33,
+      "state": "Tamil Nadu",
+      "district_code": 610,
+      "district": "Ariyalur"
+    },
+    {
+      "state_code": 33,
+      "state": "Tamil Nadu",
+      "district_code": 730,
+      "district": "Chengalpattu"
+    },
+    {
+      "state_code": 33,
+      "state": "Tamil Nadu",
+      "district_code": 568,
+      "district": "Chennai"
+    },
+    {
+      "state_code": 33,
+      "state": "Tamil Nadu",
+      "district_code": 569,
+      "district": "Coimbatore"
+    },
+    {
+      "state_code": 33,
+      "state": "Tamil Nadu",
+      "district_code": 570,
+      "district": "Cuddalore"
+    },
+    {
+      "state_code": 33,
+      "state": "Tamil Nadu",
+      "district_code": 571,
+      "district": "Dharmapuri"
+    },
+    {
+      "state_code": 33,
+      "state": "Tamil Nadu",
+      "district_code": 572,
+      "district": "Dindigul"
+    },
+    {
+      "state_code": 33,
+      "state": "Tamil Nadu",
+      "district_code": 573,
+      "district": "Erode"
+    },
+    {
+      "state_code": 33,
+      "state": "Tamil Nadu",
+      "district_code": 729,
+      "district": "Kallakurichi"
+    },
+    {
+      "state_code": 33,
+      "state": "Tamil Nadu",
+      "district_code": 574,
+      "district": "Kancheepuram"
+    },
+    {
+      "state_code": 33,
+      "state": "Tamil Nadu",
+      "district_code": 575,
+      "district": "Kanniyakumari"
+    },
+    {
+      "state_code": 33,
+      "state": "Tamil Nadu",
+      "district_code": 576,
+      "district": "Karur"
+    },
+    {
+      "state_code": 33,
+      "state": "Tamil Nadu",
+      "district_code": 577,
+      "district": "Krishnagiri"
+    },
+    {
+      "state_code": 33,
+      "state": "Tamil Nadu",
+      "district_code": 578,
+      "district": "Madurai"
+    },
+    {
+      "state_code": 33,
+      "state": "Tamil Nadu",
+      "district_code": 735,
+      "district": "Mayiladuthurai"
+    },
+    {
+      "state_code": 33,
+      "state": "Tamil Nadu",
+      "district_code": 579,
+      "district": "Nagapattinam"
+    },
+    {
+      "state_code": 33,
+      "state": "Tamil Nadu",
+      "district_code": 580,
+      "district": "Namakkal"
+    },
+    {
+      "state_code": 33,
+      "state": "Tamil Nadu",
+      "district_code": 581,
+      "district": "Perambalur"
+    },
+    {
+      "state_code": 33,
+      "state": "Tamil Nadu",
+      "district_code": 582,
+      "district": "Pudukkottai"
+    },
+    {
+      "state_code": 33,
+      "state": "Tamil Nadu",
+      "district_code": 583,
+      "district": "Ramanathapuram"
+    },
+    {
+      "state_code": 33,
+      "state": "Tamil Nadu",
+      "district_code": 731,
+      "district": "Ranipet"
+    },
+    {
+      "state_code": 33,
+      "state": "Tamil Nadu",
+      "district_code": 584,
+      "district": "Salem"
+    },
+    {
+      "state_code": 33,
+      "state": "Tamil Nadu",
+      "district_code": 585,
+      "district": "Sivaganga"
+    },
+    {
+      "state_code": 33,
+      "state": "Tamil Nadu",
+      "district_code": 733,
+      "district": "Tenkasi"
+    },
+    {
+      "state_code": 33,
+      "state": "Tamil Nadu",
+      "district_code": 586,
+      "district": "Thanjavur"
+    },
+    {
+      "state_code": 33,
+      "state": "Tamil Nadu",
+      "district_code": 588,
+      "district": "Theni"
+    },
+    {
+      "state_code": 33,
+      "state": "Tamil Nadu",
+      "district_code": 587,
+      "district": "The Nilgiris"
+    },
+    {
+      "state_code": 33,
+      "state": "Tamil Nadu",
+      "district_code": 589,
+      "district": "Thiruvallur"
+    },
+    {
+      "state_code": 33,
+      "state": "Tamil Nadu",
+      "district_code": 590,
+      "district": "Thiruvarur"
+    },
+    {
+      "state_code": 33,
+      "state": "Tamil Nadu",
+      "district_code": 594,
+      "district": "Thoothukkudi"
+    },
+    {
+      "state_code": 33,
+      "state": "Tamil Nadu",
+      "district_code": 591,
+      "district": "Tiruchirappalli"
+    },
+    {
+      "state_code": 33,
+      "state": "Tamil Nadu",
+      "district_code": 592,
+      "district": "Tirunelveli"
+    },
+    {
+      "state_code": 33,
+      "state": "Tamil Nadu",
+      "district_code": 732,
+      "district": "Tirupathur"
+    },
+    {
+      "state_code": 33,
+      "state": "Tamil Nadu",
+      "district_code": 634,
+      "district": "Tiruppur"
+    },
+    {
+      "state_code": 33,
+      "state": "Tamil Nadu",
+      "district_code": 593,
+      "district": "Tiruvannamalai"
+    },
+    {
+      "state_code": 33,
+      "state": "Tamil Nadu",
+      "district_code": 595,
+      "district": "Vellore"
+    },
+    {
+      "state_code": 33,
+      "state": "Tamil Nadu",
+      "district_code": 596,
+      "district": "Viluppuram"
+    },
+    {
+      "state_code": 33,
+      "state": "Tamil Nadu",
+      "district_code": 597,
+      "district": "Virudhunagar"
+    },
+    {
+      "state_code": 36,
+      "state": "Telangana",
+      "district_code": 501,
+      "district": "Adilabad"
+    },
+    {
+      "state_code": 36,
+      "state": "Telangana",
+      "district_code": 690,
+      "district": "Bhadradri Kothagudem"
+    },
+    {
+      "state_code": 36,
+      "state": "Telangana",
+      "district_code": 686,
+      "district": "Hanumakonda"
+    },
+    {
+      "state_code": 36,
+      "state": "Telangana",
+      "district_code": 507,
+      "district": "Hyderabad"
+    },
+    {
+      "state_code": 36,
+      "state": "Telangana",
+      "district_code": 681,
+      "district": "Jagitial"
+    },
+    {
+      "state_code": 36,
+      "state": "Telangana",
+      "district_code": 689,
+      "district": "Jangoan"
+    },
+    {
+      "state_code": 36,
+      "state": "Telangana",
+      "district_code": 687,
+      "district": "Jayashankar Bhupalapally"
+    },
+    {
+      "state_code": 36,
+      "state": "Telangana",
+      "district_code": 695,
+      "district": "Jogulamba Gadwal"
+    },
+    {
+      "state_code": 36,
+      "state": "Telangana",
+      "district_code": 685,
+      "district": "Kamareddy"
+    },
+    {
+      "state_code": 36,
+      "state": "Telangana",
+      "district_code": 508,
+      "district": "Karimnagar"
+    },
+    {
+      "state_code": 36,
+      "state": "Telangana",
+      "district_code": 509,
+      "district": "Khammam"
+    },
+    {
+      "state_code": 36,
+      "state": "Telangana",
+      "district_code": 699,
+      "district": "Kumuram Bheem Asifabad"
+    },
+    {
+      "state_code": 36,
+      "state": "Telangana",
+      "district_code": 688,
+      "district": "Mahabubabad"
+    },
+    {
+      "state_code": 36,
+      "state": "Telangana",
+      "district_code": 512,
+      "district": "Mahabubnagar"
+    },
+    {
+      "state_code": 36,
+      "state": "Telangana",
+      "district_code": 684,
+      "district": "Mancherial"
+    },
+    {
+      "state_code": 36,
+      "state": "Telangana",
+      "district_code": 513,
+      "district": "Medak"
+    },
+    {
+      "state_code": 36,
+      "state": "Telangana",
+      "district_code": 700,
+      "district": "Medchal Malkajgiri"
+    },
+    {
+      "state_code": 36,
+      "state": "Telangana",
+      "district_code": 720,
+      "district": "Mulugu"
+    },
+    {
+      "state_code": 36,
+      "state": "Telangana",
+      "district_code": 694,
+      "district": "Nagarkurnool"
+    },
+    {
+      "state_code": 36,
+      "state": "Telangana",
+      "district_code": 514,
+      "district": "Nalgonda"
+    },
+    {
+      "state_code": 36,
+      "state": "Telangana",
+      "district_code": 721,
+      "district": "Narayanpet"
+    },
+    {
+      "state_code": 36,
+      "state": "Telangana",
+      "district_code": 680,
+      "district": "Nirmal"
+    },
+    {
+      "state_code": 36,
+      "state": "Telangana",
+      "district_code": 516,
+      "district": "Nizamabad"
+    },
+    {
+      "state_code": 36,
+      "state": "Telangana",
+      "district_code": 682,
+      "district": "Peddapalli"
+    },
+    {
+      "state_code": 36,
+      "state": "Telangana",
+      "district_code": 683,
+      "district": "Rajanna Sircilla"
+    },
+    {
+      "state_code": 36,
+      "state": "Telangana",
+      "district_code": 518,
+      "district": "Ranga Reddy"
+    },
+    {
+      "state_code": 36,
+      "state": "Telangana",
+      "district_code": 691,
+      "district": "Sangareddy"
+    },
+    {
+      "state_code": 36,
+      "state": "Telangana",
+      "district_code": 692,
+      "district": "Siddipet"
+    },
+    {
+      "state_code": 36,
+      "state": "Telangana",
+      "district_code": 696,
+      "district": "Suryapet"
+    },
+    {
+      "state_code": 36,
+      "state": "Telangana",
+      "district_code": 698,
+      "district": "Vikarabad"
+    },
+    {
+      "state_code": 36,
+      "state": "Telangana",
+      "district_code": 693,
+      "district": "Wanaparthy"
+    },
+    {
+      "state_code": 36,
+      "state": "Telangana",
+      "district_code": 522,
+      "district": "Warangal"
+    },
+    {
+      "state_code": 36,
+      "state": "Telangana",
+      "district_code": 697,
+      "district": "Yadadri Bhuvanagiri"
+    },
+    {
+      "state_code": 38,
+      "state": "The Dadra And Nagar Haveli And Daman And Diu",
+      "district_code": 465,
+      "district": "Dadra And Nagar Haveli"
+    },
+    {
+      "state_code": 38,
+      "state": "The Dadra And Nagar Haveli And Daman And Diu",
+      "district_code": 463,
+      "district": "Daman"
+    },
+    {
+      "state_code": 38,
+      "state": "The Dadra And Nagar Haveli And Daman And Diu",
+      "district_code": 464,
+      "district": "Diu"
+    },
+    {
+      "state_code": 16,
+      "state": "Tripura",
+      "district_code": 269,
+      "district": "Dhalai"
+    },
+    {
+      "state_code": 16,
+      "state": "Tripura",
+      "district_code": 654,
+      "district": "Gomati"
+    },
+    {
+      "state_code": 16,
+      "state": "Tripura",
+      "district_code": 652,
+      "district": "Khowai"
+    },
+    {
+      "state_code": 16,
+      "state": "Tripura",
+      "district_code": 270,
+      "district": "North Tripura"
+    },
+    {
+      "state_code": 16,
+      "state": "Tripura",
+      "district_code": 653,
+      "district": "Sepahijala"
+    },
+    {
+      "state_code": 16,
+      "state": "Tripura",
+      "district_code": 271,
+      "district": "South Tripura"
+    },
+    {
+      "state_code": 16,
+      "state": "Tripura",
+      "district_code": 655,
+      "district": "Unakoti"
+    },
+    {
+      "state_code": 16,
+      "state": "Tripura",
+      "district_code": 272,
+      "district": "West Tripura"
+    },
+    {
+      "state_code": 5,
+      "state": "Uttarakhand",
+      "district_code": 45,
+      "district": "Almora"
+    },
+    {
+      "state_code": 5,
+      "state": "Uttarakhand",
+      "district_code": 46,
+      "district": "Bageshwar"
+    },
+    {
+      "state_code": 5,
+      "state": "Uttarakhand",
+      "district_code": 47,
+      "district": "Chamoli"
+    },
+    {
+      "state_code": 5,
+      "state": "Uttarakhand",
+      "district_code": 48,
+      "district": "Champawat"
+    },
+    {
+      "state_code": 5,
+      "state": "Uttarakhand",
+      "district_code": 49,
+      "district": "Dehradun"
+    },
+    {
+      "state_code": 5,
+      "state": "Uttarakhand",
+      "district_code": 50,
+      "district": "Haridwar"
+    },
+    {
+      "state_code": 5,
+      "state": "Uttarakhand",
+      "district_code": 51,
+      "district": "Nainital"
+    },
+    {
+      "state_code": 5,
+      "state": "Uttarakhand",
+      "district_code": 52,
+      "district": "Pauri Garhwal"
+    },
+    {
+      "state_code": 5,
+      "state": "Uttarakhand",
+      "district_code": 53,
+      "district": "Pithoragarh"
+    },
+    {
+      "state_code": 5,
+      "state": "Uttarakhand",
+      "district_code": 54,
+      "district": "Rudra Prayag"
+    },
+    {
+      "state_code": 5,
+      "state": "Uttarakhand",
+      "district_code": 55,
+      "district": "Tehri Garhwal"
+    },
+    {
+      "state_code": 5,
+      "state": "Uttarakhand",
+      "district_code": 56,
+      "district": "Udam Singh Nagar"
+    },
+    {
+      "state_code": 5,
+      "state": "Uttarakhand",
+      "district_code": 57,
+      "district": "Uttar Kashi"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 118,
+      "district": "Agra"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 119,
+      "district": "Aligarh"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 121,
+      "district": "Ambedkar Nagar"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 640,
+      "district": "Amethi"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 154,
+      "district": "Amroha"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 122,
+      "district": "Auraiya"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 140,
+      "district": "Ayodhya"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 123,
+      "district": "Azamgarh"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 124,
+      "district": "Baghpat"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 125,
+      "district": "Bahraich"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 126,
+      "district": "Ballia"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 127,
+      "district": "Balrampur"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 128,
+      "district": "Banda"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 129,
+      "district": "Bara Banki"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 130,
+      "district": "Bareilly"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 131,
+      "district": "Basti"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 179,
+      "district": "Bhadohi"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 132,
+      "district": "Bijnor"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 133,
+      "district": "Budaun"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 134,
+      "district": "Bulandshahr"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 135,
+      "district": "Chandauli"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 136,
+      "district": "Chitrakoot"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 137,
+      "district": "Deoria"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 138,
+      "district": "Etah"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 139,
+      "district": "Etawah"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 141,
+      "district": "Farrukhabad"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 142,
+      "district": "Fatehpur"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 143,
+      "district": "Firozabad"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 144,
+      "district": "Gautam Buddha Nagar"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 145,
+      "district": "Ghaziabad"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 146,
+      "district": "Ghazipur"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 147,
+      "district": "Gonda"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 148,
+      "district": "Gorakhpur"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 149,
+      "district": "Hamirpur"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 661,
+      "district": "Hapur"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 150,
+      "district": "Hardoi"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 163,
+      "district": "Hathras"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 151,
+      "district": "Jalaun"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 152,
+      "district": "Jaunpur"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 153,
+      "district": "Jhansi"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 155,
+      "district": "Kannauj"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 156,
+      "district": "Kanpur Dehat"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 157,
+      "district": "Kanpur Nagar"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 633,
+      "district": "Kasganj"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 158,
+      "district": "Kaushambi"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 159,
+      "district": "Kheri"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 160,
+      "district": "Kushinagar"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 161,
+      "district": "Lalitpur"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 162,
+      "district": "Lucknow"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 165,
+      "district": "Mahoba"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 164,
+      "district": "Mahrajganj"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 166,
+      "district": "Mainpuri"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 167,
+      "district": "Mathura"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 168,
+      "district": "Mau"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 169,
+      "district": "Meerut"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 170,
+      "district": "Mirzapur"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 171,
+      "district": "Moradabad"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 172,
+      "district": "Muzaffarnagar"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 173,
+      "district": "Pilibhit"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 174,
+      "district": "Pratapgarh"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 120,
+      "district": "Prayagraj"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 175,
+      "district": "Rae Bareli"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 176,
+      "district": "Rampur"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 177,
+      "district": "Saharanpur"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 659,
+      "district": "Sambhal"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 178,
+      "district": "Sant Kabir Nagar"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 180,
+      "district": "Shahjahanpur"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 660,
+      "district": "Shamli"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 181,
+      "district": "Shrawasti"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 182,
+      "district": "Siddharthnagar"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 183,
+      "district": "Sitapur"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 184,
+      "district": "Sonbhadra"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 185,
+      "district": "Sultanpur"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 186,
+      "district": "Unnao"
+    },
+    {
+      "state_code": 9,
+      "state": "Uttar Pradesh",
+      "district_code": 187,
+      "district": "Varanasi"
+    },
+    {
+      "state_code": 19,
+      "state": "West Bengal",
+      "district_code": 664,
+      "district": "Alipurduar"
+    },
+    {
+      "state_code": 19,
+      "state": "West Bengal",
+      "district_code": 305,
+      "district": "Bankura"
+    },
+    {
+      "state_code": 19,
+      "state": "West Bengal",
+      "district_code": 307,
+      "district": "Birbhum"
+    },
+    {
+      "state_code": 19,
+      "state": "West Bengal",
+      "district_code": 308,
+      "district": "Cooch Behar"
+    },
+    {
+      "state_code": 19,
+      "state": "West Bengal",
+      "district_code": 310,
+      "district": "Dakshin Dinajpur"
+    },
+    {
+      "state_code": 19,
+      "state": "West Bengal",
+      "district_code": 309,
+      "district": "Darjeeling"
+    },
+    {
+      "state_code": 19,
+      "state": "West Bengal",
+      "district_code": 312,
+      "district": "Hooghly"
+    },
+    {
+      "state_code": 19,
+      "state": "West Bengal",
+      "district_code": 313,
+      "district": "Howrah"
+    },
+    {
+      "state_code": 19,
+      "state": "West Bengal",
+      "district_code": 314,
+      "district": "Jalpaiguri"
+    },
+    {
+      "state_code": 19,
+      "state": "West Bengal",
+      "district_code": 703,
+      "district": "Jhargram"
+    },
+    {
+      "state_code": 19,
+      "state": "West Bengal",
+      "district_code": 702,
+      "district": "Kalimpong"
+    },
+    {
+      "state_code": 19,
+      "state": "West Bengal",
+      "district_code": 315,
+      "district": "Kolkata"
+    },
+    {
+      "state_code": 19,
+      "state": "West Bengal",
+      "district_code": 316,
+      "district": "Malda"
+    },
+    {
+      "state_code": 19,
+      "state": "West Bengal",
+      "district_code": 319,
+      "district": "Murshidabad"
+    },
+    {
+      "state_code": 19,
+      "state": "West Bengal",
+      "district_code": 320,
+      "district": "Nadia"
+    },
+    {
+      "state_code": 19,
+      "state": "West Bengal",
+      "district_code": 303,
+      "district": "North 24 Parganas"
+    },
+    {
+      "state_code": 19,
+      "state": "West Bengal",
+      "district_code": 704,
+      "district": "Paschim Bardhaman"
+    },
+    {
+      "state_code": 19,
+      "state": "West Bengal",
+      "district_code": 318,
+      "district": "Paschim Medinipur"
+    },
+    {
+      "state_code": 19,
+      "state": "West Bengal",
+      "district_code": 306,
+      "district": "Purba Bardhaman"
+    },
+    {
+      "state_code": 19,
+      "state": "West Bengal",
+      "district_code": 317,
+      "district": "Purba Medinipur"
+    },
+    {
+      "state_code": 19,
+      "state": "West Bengal",
+      "district_code": 321,
+      "district": "Purulia"
+    },
+    {
+      "state_code": 19,
+      "state": "West Bengal",
+      "district_code": 304,
+      "district": "South 24 Parganas"
+    },
+    {
+      "state_code": 19,
+      "state": "West Bengal",
+      "district_code": 311,
+      "district": "Uttar Dinajpur"
+    }
+  ]
+}
