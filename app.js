@@ -6,7 +6,7 @@ const app = express();
 const PORT = 3000;
 
 app.get('/states', (req, res) => {
-    let options = '';
+    let options = '<option value="0">Select State</option>';
     states.States.forEach(state => {
         options += `<option value="${state.state_code}">${state.state}</option>`;
     });
@@ -22,7 +22,7 @@ app.get('/districts/:stateCode', (req, res) => {
         return res.status(404).send('Districts not found for the given state code.');
     }
 
-    let options = '';
+    let options = '<option value="0">Select District</option>';
     filteredDistricts.forEach(district => {
         options += `<option value="${district.district}">${district.district}</option>`;
     });
