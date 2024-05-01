@@ -6,9 +6,9 @@ const app = express();
 const PORT = 3000;
 
 app.get('/states', (req, res) => {
-    let options = '<option value="0">Select State</option>';
+    let options = '<option data-code="0" value="0">Select State</option>';
     states.States.forEach(state => {
-        options += `<option value="${state.state_code}">${state.state}</option>`;
+        options += `<option data-code="${state.state_code}" value="${state.state}">${state.state}</option>`;
     });
     res.send(options);
 });
